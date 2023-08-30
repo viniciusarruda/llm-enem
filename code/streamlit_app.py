@@ -63,6 +63,7 @@ def set_llm(openai_api_key):
                 icon="🚫",
             )
             logger(observation="ERROR", content=traceback.format_exc())
+            logger.save()
     else:
         raise ValueError(f"Model {st.session_state['model']} is not available.")
 

@@ -92,6 +92,7 @@ class OpenAIChatCompletionWrapper:
             except self.openai_errors as e:
                 if self.log:
                     logger(observation="Error", content=str(e))
+                    logger.save()
 
                 # Increment retries
                 num_retries += 1
@@ -106,6 +107,7 @@ class OpenAIChatCompletionWrapper:
                 # Sleep for the delay
                 if self.log:
                     logger(observation="Info", content=f"Waiting {delay} before another attempt.")
+                    logger.save()
                 time.sleep(delay)
 
             # Raise exceptions for any errors not specified
