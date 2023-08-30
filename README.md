@@ -21,7 +21,7 @@ The code was written aiming to have few dependencies and facilitate the use of L
 ### ENEM 2022
 The `ENEM 2022` dataset is available under the folder `dataset/enem` in a processed format ready to use with the LLMs. The processing procedure was done taking into consideration the [instructions](https://github.com/piresramon/gpt-4-enem/issues/1) given by the author with little modification. In order to replicate it, replace the original `write_out.py` file with the `dataset/enem/write_out.py` file.
 
-For the three-shot formats, it was observed that three prompts have only two examples instead of three, and their ids are: `ENEM_2022_21`, `ENEM_2022_88`, and `ENEM_2022_143`. This issue has been [reported](https://github.com/piresramon/gpt-4-enem/issues/1) to the author.
+<!-- For the three-shot formats, it was observed that three prompts have only two examples instead of three, and their ids are: `ENEM_2022_21`, `ENEM_2022_88`, and `ENEM_2022_143`. This issue has been [reported](https://github.com/piresramon/gpt-4-enem/issues/1) to the author. --> 
 
 The original Enem exam used to build the `ENEM 2022` dataset can be downloaded [here](https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D1_CD3.pdf) and [here](https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD6.pdf).
 
