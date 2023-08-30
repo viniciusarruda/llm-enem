@@ -4,7 +4,7 @@ import streamlit as st
 from chat_completion_wrapper import OpenAIChatCompletionWrapper, LoadingModelError, DisabledEndpointError, AuthenticationError
 from prompt_builder import get_prompt
 from logger import logger
-from evaluator import get_dataset, get_formated_answer
+from evaluator import get_dataset, get_formatted_answer
 
 LOG_STDOUT = True
 ENABLE_DOWNLOAD_LOG = True
@@ -79,7 +79,7 @@ def generate():
     st.markdown(answer)
 
     if st.session_state["input_source"] == "Enem 2022":
-        pred, gold = get_formated_answer(question, answer)
+        pred, gold = get_formatted_answer(question, answer)
         logger(observation="After processing LLM output", content=pred)
         if pred == gold:
             logger(observation="Result", content="Answer is correct!")

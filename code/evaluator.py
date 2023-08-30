@@ -8,6 +8,7 @@ from chat_completion_wrapper import (
     HFFalconChatCompletionWrapper,
 )
 from tqdm import tqdm
+from pathlib import Path
 
 AREA_MAP = {
     "languages": "Languages and Codes",
@@ -69,7 +70,7 @@ def format_enem_dataset(dataset: list[dict]) -> dict:
     return new_dataset
 
 
-def get_formated_answer(question, answer):
+def get_formatted_answer(question, answer):
     gold = ["A.", "B.", "C.", "D.", "E."][question["gold"]]
     pred = answer
 
@@ -89,7 +90,7 @@ def get_formated_answer(question, answer):
 
 def get_dataset(dataset_name):
     filename = DATASET_TO_FILENAME[dataset_name]
-    with open(os.path.join("..", "dataset", "enem", filename), "r", encoding="utf-8") as f:
+    with open(os.path.join(Path(__file__).parent.parent.resolve(), "dataset", "enem", filename), "r", encoding="utf-8") as f:
         data = json.load(f)
     return format_enem_dataset(data)
 
@@ -115,7 +116,7 @@ def evaluate(
                     assert area == AREA_MAP[question["area"]]
                     llm.new_session()
                     answer = llm(question["prompt"])
-                    pred, gold = get_formated_answer(question, answer)
+                    pred, gold = get_formatted_answer(question, answer)
                     report.append(
                         dict(
                             id=question["id"],

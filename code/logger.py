@@ -90,7 +90,7 @@ class _Logger:
     def __init__(self, print_stdout: bool = False) -> None:
         _Logger._counter += 1
         assert _Logger._counter == 1, "Logger should not be instantiated out of this file!"
-        env = Environment(loader=FileSystemLoader(Path(os.path.join("..", "log-templates")).resolve()))
+        env = Environment(loader=FileSystemLoader(os.path.join(Path(__file__).parent.parent.resolve(), "log-templates")))
         self.template = env.get_template("template.jinja2")
         self.print_stdout = print_stdout
         self.log_messages: list[LogMessage | LogChatMessage] = []
@@ -107,7 +107,7 @@ class _Logger:
         self.log_messages.append(log_message)
 
     def save(self) -> str:
-        log_filepath = Path(os.path.join("..", "log", f"{str(uuid.uuid4())}.html")).resolve()
+        log_filepath = os.path.join(Path(__file__).parent.parent.resolve(), "log", f"{str(uuid.uuid4())}.html")
         output = self.template.render(log_messages=self.log_messages)
         # Write the rendered output to an HTML file
         with open(log_filepath, "w", encoding="utf-8") as file:
