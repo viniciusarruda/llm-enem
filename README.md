@@ -1,10 +1,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/viniciusarruda/llm-enem/">
-    <img src="images/enem_logo.png" width="500">
+    <img src="images/enem_logo.png" width="600">
   </a>
-  <p align="center" >Source: <a href="https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D1_CD3.pdf">Enem 2020 - 1º Dia - Caderno 3</a></p>
-  <h3 align="center">Solving the Enem exam with LLMs<br/><a href="https://llm-enem.streamlit.app/">Live Demo</a></h3>
+  <p align="center" ><small>Source: <a href="https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D1_CD3.pdf">Enem 2020 - 1º Dia - Caderno 3</a></small></p>
+  <h3 align="center">Solving the Enem exam with LLMs<br/><small><a href="https://llm-enem.streamlit.app/">Live Demo</a></small></h3>
 </div>
 
 ## About

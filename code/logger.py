@@ -90,9 +90,12 @@ class _Logger:
     def __init__(self, print_stdout: bool = False) -> None:
         _Logger._counter += 1
         assert _Logger._counter == 1, "Logger should not be instantiated out of this file!"
-        # env = Environment(loader=FileSystemLoader(os.path.join("..", "log-templates")))
-        env = Environment(loader=FileSystemLoader(os.path.join(Path("..").resolve(), "log-templates")))
-        self.template = env.get_template("template.jinja2")
+        try:
+            env = Environment(loader=FileSystemLoader(os.path.join("..", "log-templates")))
+            self.template = env.get_template("template.jinja2")
+        except:
+            env = Environment(loader=FileSystemLoader("log-templates"))
+            self.template = env.get_template("template.jinja2")
         self.print_stdout = print_stdout
         self.log_messages: list[LogMessage | LogChatMessage] = []
 
