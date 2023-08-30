@@ -1,3 +1,4 @@
+<br />
 <div align="center">
   <a href="https://github.com/viniciusarruda/llm-enem/">
     <img src="images/enem_logo.png" width="500">
@@ -8,9 +9,9 @@
 
 ## About
 
-This repo aims to run LLMs on the [Enem](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem), a Brazilian University Admission Exam.
+This repository aims to run LLMs on the [Enem](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem), a Brazilian University Admission Exam.
 
-Currently, the repo aims to replicate the results from the paper [Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams
+Currently, the repository aims to replicate the results from the paper [Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams
 ](https://arxiv.org/abs/2303.17003) for the dataset they have [relased](https://github.com/piresramon/gpt-4-enem/tree/main/data/enem), named `ENEM 2022`.
 
 The code was written aiming to have few dependencies and facilitate the use of LLMs other than OpenAI-based ones.
@@ -18,7 +19,7 @@ The code was written aiming to have few dependencies and facilitate the use of L
 ## Dataset
 
 ### ENEM 2022
-The `ENEM 2022` dataset is available under the folder `dataset/enem` in a processed format ready to use with the LLMs. The processing procedure was done taking into consideration the [instructions](https://github.com/piresramon/gpt-4-enem/issues/1) given by the author with little modification. In order to replicate it, place the replace the original `write_out.py` file with the `dataset/enem/write_out.py` file.
+The `ENEM 2022` dataset is available under the folder `dataset/enem` in a processed format ready to use with the LLMs. The processing procedure was done taking into consideration the [instructions](https://github.com/piresramon/gpt-4-enem/issues/1) given by the author with little modification. In order to replicate it, replace the original `write_out.py` file with the `dataset/enem/write_out.py` file.
 
 For the three-shot formats, it was observed that three prompts have only two examples instead of three, and their ids are: `ENEM_2022_21`, `ENEM_2022_88`, and `ENEM_2022_143`. This issue has been [reported](https://github.com/piresramon/gpt-4-enem/issues/1) to the author.
 
@@ -31,7 +32,7 @@ Note:
 > This project was developed using `Windows 11` with `python 3.10.9`.
 
 
-Clone this repo, create a new environment (recommended) and install the dependencies:
+Clone this repository, create a new environment (recommended) and install the dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -40,8 +41,6 @@ pip install -r requirements.txt
 ## Usage
 
 ### Evaluate on OpenAI LLMs
-
-TODO use fire!
 
 #### 1. Set the OpenAI API key:
 Visit [OpenAI](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key) to retrieve your API key and add to your environment variable.
@@ -59,7 +58,7 @@ export OPENAI_API_KEY="sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 #### 2. Run the evaluation script:
 
 You can run with any model starting with `gpt-3.5-turbo` and `gpt-4`. 
-The results reported in this repo repository the [`gpt-3.5-turbo-0613`](https://platform.openai.com/docs/models/gpt-3-5) and [`gpt-4-0613`](https://platform.openai.com/docs/models/gpt-4) versions.
+The results reported in this repository are the [`gpt-3.5-turbo-0613`](https://platform.openai.com/docs/models/gpt-3-5) and [`gpt-4-0613`](https://platform.openai.com/docs/models/gpt-4) versions.
 
 For the dataset, the options are: `Zero-shot`, `Few-shot`, and `Few-shot with Chain-of-Thought`, which evaluates the dataset files `enem_2022_0_shot.json`, `enem_2022_3_shot.json`, and `enem_cot_2022_3_shot.json`, respectively.
 
@@ -101,7 +100,7 @@ $Env:huggingface_token="hf_xxxxxxxxxxxxxxxxxx"
 $Env:huggingface_namespace="xxxxxxxxxxxxxxxxxx"
 ```
 
-For the `Falcon 7B` model, set the following environment variables using the following pattern:
+Using the `Falcon-7B` model as example, set the following environment variables using the following pattern:
 
 ```powershell
 $Env:huggingface_Falcon7B_name="xxxxxxxxxxxxxxxxxx"
@@ -123,10 +122,7 @@ python evaluator.py build_results_table --models "['Falcon-7B', 'LLaMA-2-7B']" -
 
 ### Streamlit Demo
 
-<div align="center">
-  <img src="images/streamlit.png" width="500">
-  <p align="center" >Streamlit Demo</p>
-</div>
+![Streamlit Demo](images/streamlit.png)
 
 The streamlit demo is only available for the OpenAI models.
 
@@ -206,13 +202,13 @@ Detailed results can be seen in the [`reports`](reports/) folder.
 ### Falcon-7B and LLaMA-2-7B Models
 
 The [evaluation](unreleased-reports/results.html) on the `ENEM 2022` dataset, with the models `Falcon-7B` and `LLaMA-2-7B`, was done using the Hugging Face Inference Endpoints. These models require a further investigation on how to build better prompts and how to automate the interpretation of their outputs. 
-As can be seen in the detailed [`reports`](unreleased-reports/) folder, there are several issues, such as mixing english with portuguese, answering with gibberish text, badly formatted answers. Thus, the [`results`](unreleased-reports/results.html) table **should not** be considered.
+As can be seen in the detailed [`reports`](unreleased-reports/) folder, there are several issues, such as mixing english with portuguese, answering with gibberish text, and badly formatted answers. Thus, the [`results`](unreleased-reports/results.html) table **should not** be considered, being kept in the repository for informational purposes only.
 
 ## Citation
 
 If you use the `ENEM 2022` dataset in your research, even the processed version released in this repository, please cite the [original work](https://github.com/piresramon/gpt-4-enem/tree/main#citation).
 
-Also, if you use this code or results published in this repository in your research, please cite:
+Also, if you use this code or the results published in this repository in your research, please cite:
 
 ```bibtex
 @misc{arruda2023,
