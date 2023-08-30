@@ -1,0 +1,828 @@
+[
+    {
+        "id": "ENEM_2022_6",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_7",
+        "response": "(a)",
+        "pred": "(a)",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_8",
+        "response": "<strong>A</strong> - Ainda que o sedentarismo seja presente em parcela significativa da população no território nacional, é possível combater o problema através de ações relacionadas à educação e à distribuição de renda.\n\nB - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A - A",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_9",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_10",
+        "response": "\"Cabeçalho\" é uma coluna.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_11",
+        "response": "\"A\"",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_12",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_13",
+        "response": "\"palavra\" is a word that can be used as a noun, adjective, adverb, or verb. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word",
+        "pred": "\"palavra\" is a word that can be used as a noun, adjective, adverb, or verb. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word that is commonly used in everyday language. It is a word",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_14",
+        "response": "(a)",
+        "pred": "(a)",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_15",
+        "response": "\"Cabeçalho\" (fragmento)",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_17",
+        "response": "(B)",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_19",
+        "response": "\"A\"",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_21",
+        "response": "\"A vida engata uma primeira e sai em disparada\" (E)",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_22",
+        "response": "\"Bom dia\" é uma frase que não é difícil de entender, mas não é tão \"falar difícil\" como a frase \"Bom dia! O senhor poderia me vender cinco reais de pão francês?\". A primeira frase é a mais comum e fácil de entender, mas não é tão difícil de falar como a segunda frase.",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_23",
+        "response": "(a)",
+        "pred": "(a)",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_24",
+        "response": "(B)",
+        "pred": "B.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_25",
+        "response": "\"D\" - Nível social dos participantes da situação.",
+        "pred": "D.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_26",
+        "response": "“Vida perfeita” em redes sociais pode afetar a saúde mental.\n\nA. Representações estereotipadas e superficiais de felicidade.\nB. Ressignificações contemporâneas do conceito de alegria.\nC. Estilos de vida inacessíveis para a sociedade brasileira.\nD. Atitudes contraditórias de influenciadores digitais.\nE. Padrões idealizados e nocivos de beleza física.",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_29",
+        "response": "\"A\"",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_31",
+        "response": "(a) A. utilização de aparelhos musicais eletrônicos em lugar dos instrumentos tradicionais. (b) B. ocupação de espaços da natureza local para a produção de eventos musicais memoráveis. (c) C. substituição de antigas práticas musicais, como o frevo, por melodias e harmonias inovadoras. (d) D. recuperação de composições tradicionais folclóricas e sua apresentação em grandes festivais. (e) E. integração de referenciais culturais de diferentes origens, criando uma nova combinação estética.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_32",
+        "response": "A. revelar a imposição de crenças religiosas a pessoas escravizadas.\nB. apontar a hipocrisia do discurso conservador na defesa da escravidão.\nC. sugerir práticas de violência física e moral em nome do progresso material.\nD. relacionar o declínio da produção agrícola e comercial a questões raciais.\nE. ironizar o comportamento dos proprietários de terra na exploração do trabalho.",
+        "pred": "E.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_33",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_34",
+        "response": "\"Cabeçalho\" é uma expressão que não é usada na língua portuguesa. A palavra \"cabeçalho\" é utilizada no português brasileiro para referir a um \"cabeçalho\" de um animal, como o de um cavalo, por exemplo.",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_35",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_36",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_37",
+        "response": "(a)",
+        "pred": "(a)",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_38",
+        "response": "\"A\"",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_39",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_40",
+        "response": "\"A. lição de vida comunicada pelo tenente.\"",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_41",
+        "response": "A. A. B.\nB. C.\nD. E.",
+        "pred": "E.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_42",
+        "response": "\"A língua não é uma nomenclatura, que se apõe a uma realidade pré-categorizada, ela é que classifica a realidade.\"",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_43",
+        "response": "\"E\"",
+        "pred": "E.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_45",
+        "response": "(A) Enunciado: O recurso linguístico que permite a Machado de Assis considerar um capítulo de Memórias póstumas de Brás Cubas como inventário é a\nAlternatives:\nA. enumeração de objetos e fatos.\nB. predominância de linguagem objetiva.\nC. ocorrência de período longo no trecho.\nD. combinação de verbos no presente e no pretérito.\nE. presença de léxico do campo semântico de funerais.\nResposta: (E)",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_46",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_47",
+        "response": "(A) Limitação da área ocupada.",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_48",
+        "response": "\"E. moderação das paixões.\"",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_49",
+        "response": "(E)",
+        "pred": "E.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_50",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_52",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_53",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_54",
+        "response": "\"A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade. A Inquisição foi uma época de grande avanço na humanidade",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_56",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_57",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_58",
+        "response": "(a)",
+        "pred": "(a)",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_60",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_61",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_62",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_64",
+        "response": "(a) A. Supressão de eleições de representantes políticos.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_65",
+        "response": "(A) Fluxo de retorno.",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_66",
+        "response": "(B)",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_67",
+        "response": "(A) A oposição entre os discursos expressa pontos de vista divergentes respectivamente pela oposição entre os antigos e os modernos.",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_68",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_70",
+        "response": "(A) as populações com idioma comum devem estar submetidas à mesma autoridade estatal.\n\nExplanation:\nVladimir Putin's statement in 2014 that Crimeia should be annexed to Russia is based on the idea that Crimean people should be subject to the same authority as the rest of Russia. This statement is a reflection of the Russian Federation's belief that Crimean people are part of their country, and that Crimean people should be subject to the same laws and regulations as the rest of Russia. This belief is not unique to Russia, as many countries have similar views on their own territories.",
+        "pred": "C.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_71",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_72",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_73",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_74",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_76",
+        "response": "(a)",
+        "pred": "(a)",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_77",
+        "response": "A. Delimitação de paisagens urbanas e abandono de componentes espiritualistas.\nB. Demarcação de patrimônios afetivos e apropriação de elementos judaizantes.\nC. Expansão de fronteiras regionais e subjetivação do cristianismo medieval.\nD. Circunscrição de bens simbólicos e admissão de cerimônias ecumênicas.\nE. Criação de lugares místicos e experiências do catolicismo popular.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_78",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_79",
+        "response": "(E) Enunciado: Contrariando a visão prevalente sobre o impacto tecnológico nas relações humanas, o texto revela que os celulares podem desempenhar uma função\n\nA. recreativa, promovendo o lazer em redes integradas.\nB. social, estimulando a reciprocidade por meios digitais.\nC. laboral, convertendo o desenvolvedor em usuário final.\nD. comercial, direcionando a escolha por produtos industrializados.\nE. cognitiva, favorecendo a aprendizagem pelas ferramentas virtuais.",
+        "pred": "E.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_80",
+        "response": "\"E\"",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_81",
+        "response": "(A) - A. realizar florestamentos de pinus, desrespeitando a prática do pousio. (B) - B. utilizar sistemas de irrigação, desprezando uma drenagem adequada. (C) - C. instalar açudes nos grotões, retardando a velocidade da vazão fluvial. (D) - D. desmatar áreas de preservação permanente, causando assoreamento. (E) - E. aplicar fertilizantes de origem orgânica, modificando a química da terra. (Resposta: (A) - A. realizar florestamentos de pinus, desrespeitando a prática do pousio. (B) - B. utilizar sistemas de irrigação, desprezando uma drenagem adequada. (C) - C. instalar açudes nos grotões, retardando a velocidade da vazão fluvial. (D) - D. desmatar áreas de preservação permanente, causando assoreamento. (E) - E. aplicar fertilizantes de origem orgânica, modificando a química da terra. (Resposta: (A) - A. realizar florestamentos de pinus, desrespeitando a prática do pousio. (B) - B. utilizar sistemas de irrigação, desprezando uma drenagem adequada. (C) - C. instalar açudes nos grotões, retardando a velocidade da vazão fluvial. (D) - D. desmatar áreas de preservação permanente, causando assoreamento. (E) - E. aplicar fertilizantes de origem orgânica, modificando a química da terra.",
+        "pred": "E.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_83",
+        "response": "(A) Enquanto a engenharia ambiental e a equilíbrio da fauna não estão em\ndiferença, a coexistência entre maquinaria estrangeira e controle da floresta é\ncomum. (B) A incoerência entre maquinaria estrangeira e controle da floresta é\ncomum. (C) A incompatibilidade entre investimento estatal e proteção aos nativos é\ncomum. (D) A competição entre farmacologia internacional e produtos da fitoterapia é\ncomum. (E) A contradição entre desenvolvimento nacional e respeito aos trabalhadores é\ncomum.",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_84",
+        "response": "(B)",
+        "pred": "B.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_85",
+        "response": "\"E\"",
+        "pred": "E.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_86",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_87",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_88",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_89",
+        "response": "\"Cabeçalho\" (A)\n\nAlternatives:\nA. Racismo estrutural.\nB. Desemprego latente.\nC. Concentração de renda.\nD. Exclusão informacional.\nE. Precariedade da educação.",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_91",
+        "response": "(n) - A. Autoimunidade.",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_93",
+        "response": "\"Cabeçalho\" is a Portuguese word that means \"head\" or \"crown\". It is not a term commonly used in English. Please provide a more specific term or phrase for me to answer your question.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_95",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_96",
+        "response": "(B) Decantação.",
+        "pred": "D.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_97",
+        "response": "(D) Oxidação do piruvato.",
+        "pred": "D.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_100",
+        "response": "\"Cabeçalho\" - \"A\"",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_101",
+        "response": "(A) Esse novo medicamento apresenta potencial aplicação para a prevenção e tratamento de acidente vascular cerebral. (B) Tratar consequências da anemia profunda, em razão da perda de grande volume de sangue. (C) Evitar a manifestação de urticárias, comumente relacionadas a processos alérgicos. (D) Reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções. (E) Regular a oscilação da pressão arterial, característica dos quadros de hipertensão.",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_102",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_103",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_105",
+        "response": "0,33 A",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_108",
+        "response": "(D) 20 A",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_111",
+        "response": "(B) 300 N",
+        "pred": "B.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_112",
+        "response": "(a)",
+        "pred": "(a)",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_113",
+        "response": "(E) Murchamento da célula com expulsão do pigmento do vacúolo.",
+        "pred": "E.",
+        "gold": "C.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_114",
+        "response": "(B) 2,1.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_116",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_120",
+        "response": "\"Cabeçalho\" is a Portuguese word that means \"head\" or \"top of the head.\" It is not a term commonly used in English. Please provide a more accurate translation or a different term to use.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_121",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_124",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_125",
+        "response": "A. 1,50 m.",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_127",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_129",
+        "response": "(D) Destilação fracionada.",
+        "pred": "D.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_130",
+        "response": "\"A\"",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_133",
+        "response": "(D)",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_134",
+        "response": "(A) 1 000 000 m²",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_135",
+        "response": "(1) A, (2) B, (3) C, (4) D, (5) E.",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_138",
+        "response": "A. 135 000,00.",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_141",
+        "response": "The correct answer is B. 3.",
+        "pred": "B.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_143",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_145",
+        "response": "800",
+        "pred": "800",
+        "gold": "D.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_147",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_149",
+        "response": "A. 14,4.\nB. 20,7.\nC. 22,0.\nD. 30,0.\nE. 37,5.",
+        "pred": "E.",
+        "gold": "D.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_150",
+        "response": "(E) 12,000.",
+        "pred": "E.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_151",
+        "response": "D. 13 290,0",
+        "pred": "D.",
+        "gold": "A.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_153",
+        "response": "D. R$ 42,00 maior.",
+        "pred": "D.",
+        "gold": "A.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_158",
+        "response": "The correct answer is option D. IV. This is because the model suggests that the number of infected individuals in a given month is proportional to the number of months in a year. Therefore, in order to find the number of infected individuals in a given month, we need to divide the number of months in a year by the number of months in a year. In this case, the number of months in a year is 12, so we divide 12 by 4 to get the number of months in a year. This gives us 3. Therefore, the correct answer is option D. IV.",
+        "pred": "D.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_162",
+        "response": "(E)",
+        "pred": "E.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_163",
+        "response": "A. 9 x (6! / (6 - 2)! x 2! = 6! / (6 - 2)! = 6! / 4! = 3! \nB. 9 x (6! / ((6 - 2)! x 2! = 6! / (6 - 2)! = 6! / 4! = 3! \nC. 9 x (4! / ((4 - 2)! x 2! = 4! / (4 - 2)! = 4! / 2! = 2! \nD. 9 x (2! / ((2 - 2)! x 2! = 2! / (2 - 2)! = 2! \nE. 9 x ((8! / ((8 - 2)! x 2! = 8! / (8 - 2)! = 8! / 2! = 2! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 3! / (3! - 2!) = 3! / 1! = 3! / 2! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1! \nTherefore, the number of ways to choose 2 of the 9 apartments in the building is 1! / (1! - 2!) = 1! / 1! = 1!",
+        "pred": "E.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_164",
+        "response": "A. 30 minutos ou menos.",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_166",
+        "response": "(A)",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_169",
+        "response": "D. 300 000.",
+        "pred": "D.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_170",
+        "response": "14",
+        "pred": "14",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_171",
+        "response": "(B)",
+        "pred": "B.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_172",
+        "response": "(D) 18.",
+        "pred": "D.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_174",
+        "response": "(D) 7",
+        "pred": "D.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_175",
+        "response": "A. 1,80 e 0,60.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_176",
+        "response": "(A) 22.",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_179",
+        "response": "(E) 52/64",
+        "pred": "E.",
+        "gold": "C.",
+        "area": "mathematics"
+    }
+]

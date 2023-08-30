@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+hr {
+    margin: 10px 0;
+}
+
+.card-list {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.type {
+    color: #888;
+    font-size: 12px;
+    margin: 0;
+}
+
+.content {
+    font-family: monospace;
+    font-size: 14px;
+    /* margin: 10px 0; */
+    /* margin-top: 15px; */
+    white-space: pre-wrap;
+}
+
+.observation-datetime {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 0;
+}
+
+.observation {
+    color: #888;
+    font-size: 12px;
+    margin: 0;
+    margin-right: 10px;
+    /* Add margin to create space between observation and datetime */
+    flex-wrap: wrap;
+    /* Allow observation to break into a new line */
+}
+
+.datetime {
+    color: #888;
+    font-size: 12px;
+    margin: 0;
+    white-space: nowrap;
+    /* Prevent datetime from breaking into a new line */
+}

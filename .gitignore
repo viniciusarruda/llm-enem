@@ -1,3 +1,12 @@
+
+.vscode
+
+make_environ.py
+
+log/*
+!log/.gitkeep
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

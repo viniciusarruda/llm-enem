@@ -1,0 +1,828 @@
+[
+    {
+        "id": "ENEM_2022_6",
+        "response": "A jornalista questiona a ideia de que certos esportes, como o skate, são predominantemente masculinos e que as mulheres devem se encaixar em certos padrões de comportamento. Ela argumenta que as mulheres devem ser livres para praticar qualquer esporte que desejem, sem serem limitadas por estereótipos de gênero. Portanto, a alternativa C. \"desconstrução da noção do skate como modalidade masculina\" é a CORRETA. As outras alternativas estão incorretas porque: A. a jornalista não está discutindo a conciliação do jornalismo com a prática do skate; B. ela não está falando especificamente sobre a inserção das mulheres na modalidade skate street, mas sim sobre a liberdade das mulheres para praticar qualquer esporte; D. a questão da idade da atleta não é o foco principal do discurso da jornalista; E. a conquista da medalha é mencionada, mas o foco do discurso é a desconstrução de estereótipos de gênero no esporte. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_7",
+        "response": "O texto apresenta a violência no futebol como um reflexo da desordem social, econômica e política vivida pelo país, ou seja, como um reflexo da precariedade da organização social no país. Portanto, a alternativa C. é a CORRETA. O texto não limita a violência no futebol a uma região específica do país, tornando a alternativa A. incorreta. A alternativa B. também é incorreta, pois o texto argumenta que a postura repressiva contra as torcidas organizadas é ineficaz, e não que elas são o desafio. A alternativa D. é incorreta, pois o texto não menciona a inadequação do espaço nos estádios como causa da violência. Por fim, a alternativa E. é incorreta, pois o texto não menciona a insatisfação dos clubes com a organização dos jogos como causa da violência. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_8",
+        "response": "A pesquisa mostra que a prática de esportes ou atividades físicas está diretamente relacionada à escolaridade e à renda. Portanto, a alternativa C, que sugere a facilitação da adoção da prática de exercícios com ações relacionadas à educação e à distribuição de renda, é a CORRETA. A alternativa A, embora correta, não aborda a questão da escolaridade e da renda, que são fatores importantes segundo a pesquisa. A alternativa B é muito genérica e não propõe uma estratégia específica. A alternativa D não é correta porque a pesquisa mostra que a falta de instalações esportivas não é um motivo citado para a não prática de esportes. A alternativa E, embora possa ser uma estratégia válida, não é a mais adequada de acordo com os dados da pesquisa. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_9",
+        "response": "O texto apresenta a história do mountainboard como um esporte que surgiu da necessidade de praticantes de snowboard de continuar praticando o esporte em períodos sem neve. Para isso, eles criaram um equipamento que permitia a prática em diversos tipos de terreno, mostrando uma grande criatividade para adaptações a novos espaços. Portanto, a alternativa D. é a CORRETA. As alternativas A., B. e C. não são mencionadas no texto. A alternativa E. é incorreta, pois o texto mostra que o mountainboard pode ser praticado em diversos tipos de terreno, não necessitando de espaços definidos para a sua realização. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_10",
+        "response": "A autora, Clarice Lispector, ao refletir sobre a atividade de cronista, questiona a brevidade no tratamento da temática, que é uma característica do gênero crônica. Ela menciona que se torna \"pessoal demais\", correndo o risco de publicar sua vida passada e presente, o que não pretende. Além disso, ela questiona a necessidade de ser mais leve e divertida apenas porque o leitor assim o quer. Portanto, a alternativa C. é a CORRETA. As demais alternativas estão incorretas porque a autora não questiona a relação distanciada entre os interlocutores (A), a articulação de vários núcleos narrativos (B), a descrição minuciosa dos personagens (D) ou um público leitor exclusivo (E). Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_11",
+        "response": "A notícia informa sobre a proposta de realização de campanhas públicas de vacinação gratuita de cães contra a leishmaniose, uma doença grave que afeta tanto os seres humanos quanto os cachorros. Além de informar, a notícia também tem o papel de conscientizar a população sobre esse grave problema de saúde pública, o que torna a alternativa C. a CORRETA. A notícia não fiscaliza as ações de saúde e saneamento da cidade, nem defende os serviços gratuitos de atendimento à população. Também não propõe campanhas para a ampliação de acesso aos serviços públicos, nem responsabiliza os agentes públicos pela demora na tomada de decisões. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_12",
+        "response": "O texto apresenta uma síntese da história do filme \"Elena\", descrevendo a trama e os personagens principais. Não se trata de uma narrativa de cenas da vida das irmãs, nem de uma descrição da separação delas. Também não é uma autobiografia do autor, nem uma análise crítica do filme. Portanto, a alternativa C. é a CORRETA, pois o texto sintetiza, por meio das principais cenas do filme, a história de Elena. Resposta: C.",
+        "pred": "C.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_13",
+        "response": "O texto pode ser considerado um poema por várias razões, mas a alternativa que melhor se encaixa é a A. O texto tematiza o fazer poético, como em \"Os poetas classificam as palavras pela alma\". Isso significa que o texto está falando sobre o processo de criação poética e a maneira como os poetas veem e usam as palavras, o que é uma característica comum em muitos poemas. A alternativa B também é válida, pois o texto utiliza metáforas, mas isso não é exclusivo de poemas. A alternativa C está incorreta porque o texto não valoriza a gramática, mas sim a maneira como os poetas usam as palavras. A alternativa D está incorreta porque, embora o texto faça comparações, isso não é o que o torna um poema. A alternativa E está incorreta porque o texto não está simplesmente apresentando informações sobre o conceito de \"palavra\", mas sim explorando a maneira como os poetas veem e usam as palavras. Resposta: A.",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_14",
+        "response": "O texto é organizado por meio da justaposição de sequências verbais e nominais, o que é evidente na alternativa A. O autor usa essa técnica para criar uma sequência de imagens e ideias que se conectam para formar um todo coerente. As outras alternativas não são corretas porque: B. não há uma mudança de eventos resultante do jogo temporal; C. o uso de adjetivos qualificativos na descrição do cenário não é o principal recurso estrutural do texto; D. não há um encadeamento semântico pelo uso de substantivos sinônimos; E. a inter-relação entre orações por elementos linguísticos lógicos não é o principal recurso estrutural do texto. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_15",
+        "response": "A função emotiva da linguagem é aquela que expressa sentimentos e emoções do emissor da mensagem. Nesse caso, a alternativa que melhor representa essa função é a alternativa C. \"A cidade não mora mais em mim\", pois expressa um sentimento de deslocamento e desapego do eu-lírico em relação à cidade. As demais alternativas não expressam diretamente sentimentos ou emoções do emissor. A alternativa A. \"Zanza pra acolá\" é uma expressão de movimento, mas não expressa um sentimento. A alternativa B. \"Fim de feira, periferia afora\" descreve um cenário, mas não expressa uma emoção. A alternativa D. \"Onde só vento se semeava outrora\" é uma metáfora que não expressa diretamente um sentimento. E a alternativa E. \"Ó Manuel, Miguilim\" é uma invocação a personagens, mas não expressa uma emoção. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_17",
+        "response": "O texto destaca a importância da língua para a identidade de um povo, e como a recuperação da língua patxôhã é uma forma de resistência étnica e preservação da memória cultural. Portanto, a alternativa B. é a CORRETA. A alternativa A. é parcialmente verdadeira, mas o movimento de recuperação da língua não apenas denuncia a perseguição histórica, mas também busca preservar a cultura e a identidade do povo. A alternativa C. não é mencionada no texto, e embora a pesquisa acadêmica possa desempenhar um papel na preservação linguística, não é o foco do movimento de recuperação da língua patxôhã. A alternativa D. é mencionada no texto, mas o retorno às terras de origem é um resultado do movimento, não o seu objetivo principal. A alternativa E. pode ser uma consequência do movimento, mas não é o seu objetivo principal. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_19",
+        "response": "O texto apresenta uma nova versão do jogo Cara a Cara, chamada \"Who's She?\", que apresenta mulheres notáveis da história e da atualidade. A ideia é que as perguntas sejam direcionadas aos feitos dessas mulheres, em vez de sua aparência. Isso sugere que o objetivo do jogo é contribuir para a formação cidadã dos jogadores, ao promover o conhecimento sobre mulheres importantes e suas realizações, tornando a alternativa A a CORRETA. As demais alternativas não se aplicam ao texto: B. O jogo não refuta modelos estereotipados de beleza e elegância, mas sim muda o foco das perguntas para as realizações das mulheres; C. Não há menção a estimular a competitividade entre potenciais compradores; D. Embora o texto mencione uma campanha de arrecadação de fundos, não é o foco principal; E. O jogo não é apresentado como uma forma de desenvolver conhecimentos lúdicos específicos dos tempos atuais, mas sim de promover o conhecimento sobre mulheres notáveis. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_21",
+        "response": "O texto de Martha Medeiros apresenta uma linguagem coloquial e informal, com o uso de metáforas para ilustrar suas ideias, como em \"a vida engata uma primeira e sai em disparada\". Isso evidencia uma situação distensa e de pouca formalidade, tornando a alternativa E a CORRETA. A impessoalização, a construção de uma atmosfera de urgência, a repetição de uma determinada estrutura sintática e o emprego da hipérbole são características presentes no texto, mas não são as que evidenciam a situação distensa e de pouca formalidade. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_22",
+        "response": "O autor do texto utiliza um exemplo de uma fala rebuscada para comprar pão para ilustrar a importância da adequação da linguagem à situação de comunicação. Ele argumenta que, embora o uso de linguagem complexa possa ser necessário em certos contextos, como em documentos jurídicos, em situações cotidianas, como comprar pão, é mais apropriado usar uma linguagem simples e direta. Portanto, a alternativa E. é a CORRETA. As outras alternativas não são corretas porque o autor não está enfatizando a importância de ter um notável saber jurídico (A), valorizando a inteligência do falante (B), incentivando o uso de linguagem complexa para demonstrar inteligência (C), ou focando na coesão e coerência em documentos jurídicos (D). Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_23",
+        "response": "O texto destaca que a tecnologia e a internet ampliaram as possibilidades de criação, reprodução e compartilhamento de obras artísticas. No entanto, também menciona que essas inovações trazem dilemas relacionados à autoria, aos direitos autorais e à reprodução e intervenção não autorizadas. Isso indica que a proteção da produção estética pode estar em risco, tornando a alternativa C. a CORRETA. As demais alternativas não são apoiadas pelo texto. O sucesso dos artistas (A) não é mencionado como estando em risco. A valorização dos suportes (B) também não é discutida. O modo de distribuição de obras (D) é mencionado, mas não como algo em risco, e sim como algo que foi ampliado pela tecnologia. Por fim, o compartilhamento das obras artísticas (E) é apresentado como uma vantagem da tecnologia, não como algo em risco. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_24",
+        "response": "O texto de Umberto Eco e Jean-Claude Carrière discute a ideia de que cada nova técnica ou tecnologia exige uma longa iniciação em uma nova linguagem, o que pode ser difícil, especialmente se nossas mentes já estão formatadas pelo uso de linguagens anteriores. Isso sugere que a maior dificuldade para os usuários é a apropriação da nova linguagem, tornando a alternativa A. a CORRETA. Embora a valorização da nova tecnologia (B.) possa ser um fator, não é o foco principal do texto. A recorrência das mudanças tecnológicas (C.) é mencionada, mas não é apresentada como o maior impacto para os usuários. A suplantação imediata dos conhecimentos prévios (D.) é discutida como uma expectativa, mas o texto argumenta que isso não é o que realmente acontece. Finalmente, a rapidez no aprendizado do manuseio das novas invenções (E.) é contradita pela afirmação de que a iniciação em uma nova linguagem é um processo longo. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_25",
+        "response": "O texto apresenta uma conversa entre dois personagens, onde um deles insiste em corrigir o outro para que use a norma-padrão da língua. No entanto, o contexto da conversa não exige tal formalidade, tornando o uso da norma-padrão inadequado. Portanto, a alternativa B. é a CORRETA. As demais alternativas estão incorretas porque o texto não apresenta elementos que indiquem um choque entre gerações (A), um grau de polidez distinto entre os interlocutores (C), uma diferença de escolaridade entre os falantes (D) ou um nível social diferente entre os participantes da situação (E). Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_26",
+        "response": "O texto fala sobre a pressão social para adotar um discurso positivo e uma vida editada para as redes sociais, o que é chamado de \"positividade tóxica\". Isso está diretamente ligado à representação estereotipada e superficial de felicidade, que é constantemente mostrada por influenciadores digitais. Portanto, a alternativa A. é a CORRETA. As outras alternativas não estão corretas porque: a ressignificação contemporânea do conceito de alegria (B.) não é mencionada no texto; os estilos de vida inacessíveis para a sociedade brasileira (C.) não são o foco do texto; as atitudes contraditórias de influenciadores digitais (D.) não são discutidas; e os padrões idealizados e nocivos de beleza física (E.) são apenas uma parte do problema, não o todo. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_29",
+        "response": "A trajetória de Vanda é contada pelo narrador de forma a ressaltar a dureza de sua vida, com referências a situações de exploração e violência. A alternativa E. \"representação anedótica de atos de violência\" é a CORRETA, pois o narrador descreve episódios de violência sofridos por Vanda de forma quase anedótica, como o nariz quebrado por um rolo de amassar pão. A alternativa A. não é correta, pois embora haja uma referência a Charles Dickens, ela não é central para a expressividade da narrativa. A alternativa B. também não é correta, pois a inocência das crianças não é o foco da narrativa. A alternativa C. não é correta, pois a narrativa não questiona a bondade humana, mas sim denuncia a exploração e a violência. Por fim, a alternativa D. não é correta, pois a descrição das pessoas do interior não é o foco da narrativa. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_31",
+        "response": "O texto destaca que o movimento manguebeat, do qual Chico Science foi um dos principais representantes, se caracterizou pela mistura de diferentes influências musicais, como o maracatu, o hip-hop, o rock e elementos eletrônicos. Isso indica que houve uma integração de referenciais culturais de diferentes origens, criando uma nova combinação estética, o que torna a alternativa E. a CORRETA. As alternativas A, B, C e D estão incorretas porque o texto não menciona a substituição de instrumentos tradicionais por eletrônicos, a ocupação de espaços da natureza para eventos musicais, a substituição do frevo por novas melodias e harmonias, nem a recuperação de composições folclóricas tradicionais. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_32",
+        "response": "O conto, inserido na estética romântica, traz uma crítica à escravidão, apontando para a hipocrisia do discurso conservador que defende a escravidão em pleno século XIX, mesmo diante dos avanços morais e cívicos da época. Portanto, a alternativa B. é a CORRETA. A alternativa A. não é correta, pois o texto não fala sobre a imposição de crenças religiosas às pessoas escravizadas. A alternativa C. também não é correta, pois o texto não sugere práticas de violência física e moral em nome do progresso material. A alternativa D. não é correta, pois o texto não relaciona o declínio da produção agrícola e comercial a questões raciais, mas sim à escravidão. Por fim, a alternativa E. não é correta, pois o texto não ironiza o comportamento dos proprietários de terra na exploração do trabalho, mas sim critica a escravidão. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_33",
+        "response": "Os textos I e II apresentam projetos que utilizam a tecnologia para promover a inclusão de pessoas com deficiência, permitindo que elas tenham acesso à informação e ao conhecimento. Portanto, a alternativa E. é a CORRETA. As alternativas A, B, C e D estão incorretas porque: A. os projetos visam à inclusão e não necessariamente à igualdade; B. apenas o projeto do texto II foi criado por uma pesquisadora surda; C. não há informações nos textos que indiquem que os projetos tiveram origem em um curso de pós-graduação; D. o projeto do texto I é voltado para escolas, mas o do texto II é uma página no Facebook, portanto, não está circunscrito ao espaço institucional da escola. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_34",
+        "response": "O narrador, ao descrever os olhos de Maria Santa, faz referências a uma origem cruzada, a homens de aventura e mulheres sofredoras, que percorriam matas intermináveis em busca de ouro e diamante. Essas descrições refletem a caracterização da personagem como mestiça, o que torna a alternativa A. a CORRETA. A construção do enredo de conquistas da família (B.) não é o foco da descrição, mas sim a origem e características da personagem. A relação conflituosa das mulheres e seus maridos (C.) é mencionada, mas não é o ponto central da descrição. A nostalgia do desejo de viver como os antepassados (D.) não é mencionada no texto. A marca de antigos sofrimentos no fluxo de consciência (E.) é sugerida, mas não é o foco da descrição dos olhos de Maria Santa. Resposta: A.",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_35",
+        "response": "A ironia na narrativa de Machado de Assis é evidente na descrição da personagem Bárbara, uma vidente que vive no Morro do Castelo. A descrição de Bárbara é feita de forma a destacar a sua simplicidade e ao mesmo tempo a sua astúcia, como se pode ver na descrição dos seus olhos, que \"eram opacos, não sempre nem tanto que não fossem também lúcidos e agudos\". A ironia está no contraste entre a singeleza e a astúcia da personagem, que apesar de viver em condições humildes, é capaz de manipular as suas clientes ricas com a sua suposta habilidade de vidência. Portanto, a alternativa D. é a CORRETA. As demais alternativas não se aplicam ao contexto da questão. A alternativa A. é incorreta porque o modo de vestir dos moradores do morro carioca não é o foco da ironia. A alternativa B. é incorreta porque o senso prático em relação às oportunidades de renda não é o foco da ironia. A alternativa C. é incorreta porque o mistério que cerca as clientes de práticas de vidência não é o foco da ironia. A alternativa E. é incorreta porque o interesse do narrador pelas figuras femininas ambíguas não é o foco da ironia. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_36",
+        "response": "O trecho do romance naturalista apresenta uma visão de mundo que considera o ser humano como um fenômeno biológico, influenciado por instintos e forças naturais. Isso é evidente na descrição do desejo de maternidade de Margarida, que é descrito como \"o egoísta e cru instinto da maternidade, obrando por mera simpatia carnal\". Portanto, a alternativa C. é a CORRETA. As demais alternativas não se aplicam ao trecho. A alternativa A. não é correta porque, embora haja uma distribuição de trabalho, ela não é feita de acordo com os princípios capitalistas. A alternativa B. não é correta porque não há nenhuma busca pela igualdade entre pessoas escravizadas e livres. A alternativa D. não é correta porque não há nenhuma referência a fé ou dogmas cristãos. A alternativa E. não é correta porque, embora haja uma determinação de acolher familiares, não há respeito mútuo. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_37",
+        "response": "O \"Romance de 30\" é marcado pela representação da realidade social e regional do Brasil, com destaque para a crítica social e a representação do homem nordestino. No trecho apresentado, o autor descreve de forma crua e realista a situação dos retirantes, pessoas que são forçadas a abandonar suas terras devido à seca, o que é característico desse movimento literário. Portanto, a alternativa A. é a CORRETA. A alternativa B. não se aplica, pois o espaço é bem definido: o sertão nordestino. A alternativa C. também não se aplica, pois o foco do trecho é a descrição da situação dos retirantes, e não uma análise psicológica de suas reações. A alternativa D. não é correta, pois o narrador não demonstra um engajamento político explícito. A alternativa E. também não se aplica, pois o trecho não apresenta uma contemplação lírica da paisagem, mas sim uma descrição realista da situação dos retirantes. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_38",
+        "response": "A passagem do texto apresenta um momento de expressividade lírica reforçada pela afetividade demonstrada ao noticiar a morte do cantador, o que torna a alternativa D. a CORRETA. O texto não apresenta uma imagem plástica do rebanho reunido (A), nem sugere a firmeza do sertanejo ao arrear o cavalo (B). A situação de pobreza encontrada nos sertões brasileiros (C) não é o foco do trecho, e a preocupação do vaqueiro em demonstrar sua virilidade (E) também não é o ponto central. O momento lírico é marcado pela emoção do personagem ao noticiar a morte de Tio Firmo, evidenciada pelas lágrimas que tenta esconder. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_39",
+        "response": "O personagem descreve o carnaval como um momento de liberação de instintos, de confissões de paixões, de transgressões e deboche. Ele expressa uma atração por essa liberdade, mas também um asco, uma repulsa, ao descrever o deboche como \"ignóbil\". Portanto, a alternativa B. é a CORRETA. As demais alternativas não se aplicam ao texto: o personagem não expressa alegria (A), espanto com a quantidade de foliões (C), intenção de confraternizar com desconhecidos (D), nem reconhece a festa como manifestação cultural (E). Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_40",
+        "response": "A autora, ao ouvir o discurso do tenente sobre a favela ser um ambiente propenso à delinquência, responde com uma reflexão irônica. Ela questiona por que, se ele sabe disso, não faz um relatório e envia para os políticos, em vez de falar com ela, uma \"pobre lixeira\". Isso mostra uma resposta irônica ante o discurso da autoridade, tornando a alternativa D. a CORRETA. A lição de vida comunicada pelo tenente não é o foco da reflexão da autora, mas sim a sua resposta a ela. A predisposição materna para se emocionar não é evidente no texto. A atividade política marcante da comunidade também não é o foco da reflexão da autora. Por fim, a autora não está revelando seus anseios mais íntimos, mas sim respondendo de forma irônica ao discurso do tenente. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_41",
+        "response": "Os pesquisadores, ao analisarem a correlação entre os hábitos e o perfil socioeconômico dos usuários da internet no Brasil, questionam a crença de que o acesso à informação é igualitário e democrático. Eles apontam que a falta de acesso à rede repete as mesmas adversidades e exclusões já verificadas na sociedade brasileira, como analfabetos, menos escolarizados, negros, população indígena e desempregados. Portanto, a alternativa B. é a CORRETA. Eles não apontam o desenvolvimento econômico como solução para ampliar o uso da rede (A), nem afirmam que o uso comercial da rede é a causa da exclusão de minorias (C). Eles também não refutam o vínculo entre níveis de escolaridade e dificuldade de acesso (D), na verdade, eles afirmam que há uma correlação. Por fim, eles não condicionam a expansão da rede à elaboração de políticas inclusivas (E), embora isso possa ser uma inferência razoável a partir do texto. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_42",
+        "response": "O Texto I afirma que a língua classifica a realidade e condensa as experiências de um povo. O Texto II exemplifica essa afirmação ao mostrar como expressões coloquiais podem refletir preconceitos presentes na sociedade. Portanto, a alternativa D, que afirma que as escolhas lexicais são resultantes de um \"processo de incorporação de preconceitos que são recorrentes na história de uma sociedade\", é a CORRETA. As demais alternativas não se aplicam ao contexto dos textos. A alternativa A fala sobre traduzir estados de coisas, mas os textos não discutem tradução. A alternativa B menciona a nomeação de novas realidades, mas os textos não discutem novas realidades. A alternativa C fala sobre apropriação de formas linguísticas, mas os textos não discutem apropriação. A alternativa E menciona objetividade na comunicação diária, mas os textos não discutem objetividade. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_43",
+        "response": "A imagem em questão tem como objetivo principal divulgar um projeto de lei que visa a transparência na administração pública, especificamente em relação aos gastos com publicidade. Portanto, a alternativa B. é a CORRETA. A alternativa A. não é correta, pois o post não tem como objetivo promover o uso adequado de campanhas publicitárias do governo, mas sim divulgar um projeto de lei. A alternativa C. também não é correta, pois o post não tem como objetivo responsabilizar o cidadão pelo controle dos gastos públicos, mas sim informar sobre um projeto de lei que visa a transparência desses gastos. A alternativa D. não é correta, pois o post não tem como objetivo delegar a gestão de projetos de lei ao contribuinte. Por fim, a alternativa E. não é correta, pois o post não tem como objetivo assegurar a fiscalização dos gastos públicos, mas sim divulgar um projeto de lei que visa a transparência desses gastos. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_45",
+        "response": "O trecho apresentado é uma lista de objetos e eventos, organizados de maneira a parecer um inventário. Portanto, a alternativa A. é a CORRETA. A linguagem utilizada não é necessariamente objetiva, pois há uma mistura de descrições e ações. O período longo não é o que faz o trecho parecer um inventário, mas sim a maneira como os elementos são listados. A combinação de verbos no presente e no pretérito não é o que caracteriza o trecho como um inventário. E, por fim, embora o léxico do campo semântico de funerais esteja presente, isso não é o que faz o trecho parecer um inventário, mas sim a maneira como os elementos são listados. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_46",
+        "response": "Empédocles, filósofo pré-socrático, propõe uma reflexão sobre a arché, que é o princípio de tudo, a origem do universo. Ele acredita que a arché é composta por quatro elementos: fogo, ar, água e terra, que são movidos pelos princípios do Amor e do Ódio. Essa reflexão é uma discussão cosmogônica, pois trata da origem e evolução do universo, tornando a alternativa C. a CORRETA. As alternativas A. e B. estão incorretas porque o texto não exalta a investigação filosófica nem transcende ao mundo sensível. A alternativa D. também está incorreta porque, embora Empédocles fale sobre Amor e Ódio, ele não está fundamentando as paixões humanas, mas sim explicando o movimento dos elementos. Por fim, a alternativa E. está incorreta porque Empédocles não está explicando a origem do universo através de mitos, mas sim através de elementos e princípios. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_47",
+        "response": "O texto fala sobre a concentração de atividades econômicas em algumas metrópoles, o que leva a uma série de problemas, como a migração em massa para essas áreas, a falta de empregos, a ocupação desordenada de certas regiões da cidade e a estigmatização de certos grupos sociais. Isso sugere que o processo de concentração espacial foi estimulado pelo êxodo da população do campo para as cidades em busca de oportunidades econômicas, tornando a alternativa B. a CORRETA. As outras alternativas não são apoiadas pelo texto. A limitação da área ocupada e a deficiência do transporte alternativo são consequências, não causas, da concentração espacial. A ampliação do risco habitacional é um resultado da ocupação desordenada, não uma causa da concentração espacial. E o crescimento da taxa de fecundidade não é mencionado no texto. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_48",
+        "response": "No excerto, Sêneca fala sobre a capacidade de manter o ânimo alegre, mesmo diante de situações adversas como a morte ou o sofrimento físico. Isso está mais relacionado à moderação das paixões, que é uma característica da filosofia estoica, da qual Sêneca era um representante. Portanto, a alternativa E. é a CORRETA. As demais alternativas não se aplicam ao contexto do excerto: não há menção a disputas dialógicas (A), rejeição das convenções sociais (B), inspiração de natureza religiosa (C) ou exaltação do sofrimento (D). Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_49",
+        "response": "O texto menciona diversas realizações das civilizações pré-colombianas, como a medição precisa do tempo e do espaço pelos Maias, a descoberta do número zero, e a prática de cirurgias pelos Incas. Essas são todas manifestações de saberes próprios dessas civilizações, o que torna a alternativa C. a CORRETA. Não há menção a bens religiosos inspirados na matriz cristã (A), já que essas civilizações tinham suas próprias religiões antes da chegada dos espanhóis. Também não há menção a materiais bélicos pilhados em batalhas coloniais (B). A alternativa D. é incorreta porque o texto não sugere que essas civilizações moldaram seus costumes laborais em estilos estrangeiros. A alternativa E. é parcialmente correta, pois os Incas praticavam cirurgias, mas o texto não sugere que eles tinham um conhecimento científico no sentido moderno do termo. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_50",
+        "response": "O texto descreve a tradição das paneleiras de Goiabeiras, que envolve a utilização de recursos naturais para a confecção de panelas de barro. Essa prática está diretamente ligada à manutenção dos modos de vida dessas mulheres, que passam o conhecimento de geração para geração. Portanto, a alternativa A. é a CORRETA. As demais alternativas não se aplicam ao contexto do texto: a conservação dos plantios da roça (B.) não é mencionada; a atualização do modelo de gestão (C.) não é relevante para a prática tradicional descrita; a participação na sociedade de consumo (D.) não é o foco da prática das paneleiras; e a especialização nas etapas de produção (E.) não é uma característica destacada no texto. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_52",
+        "response": "O texto descreve a situação de duas irmãs que não puderam ser registradas nem no país onde nasceram (Líbano) nem no país de origem de seus pais (Síria) devido a restrições legais em ambos os países. Isso as coloca na condição de apátridas, ou seja, pessoas que não possuem uma nacionalidade legalmente reconhecida. Portanto, a alternativa B. é a CORRETA. As demais alternativas estão incorretas porque: exiladas (A.) são pessoas que foram forçadas a deixar seu país de origem, geralmente por razões políticas; foragidas (C.) são pessoas que estão fugindo, geralmente da lei; refugiadas (D.) são pessoas que foram forçadas a deixar seu país de origem devido a guerra, perseguição ou desastre natural; e clandestinas (E.) são pessoas que estão em um país sem a devida autorização legal. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_53",
+        "response": "Os textos sugerem que a percepção e as imagens podem ser formas de conhecimento, não apenas os conceitos. Isso é evidente na afirmação de Merleau-Ponty de que uma filosofia da percepção que reaprende a ver o mundo dá à arte seu verdadeiro lugar, e na afirmação de Deleuze de que os grandes cineastas pensam com imagens, não com conceitos. Portanto, a alternativa C. \"Considerando o olhar como experiência de conhecimento\" é a CORRETA. As outras alternativas não se alinham diretamente com o que os textos estão sugerindo. A alternativa A. fala sobre o belo como um fenômeno transcendental, mas os textos não discutem a beleza. A alternativa B. fala sobre a vivência estética como um juízo de gosto, mas os textos estão falando sobre a percepção e as imagens como formas de conhecimento, não sobre gosto. A alternativa D. sugere que as formas de expressão são auxiliares da razão, mas os textos sugerem que a percepção e as imagens podem ser formas de conhecimento por si só. A alternativa E. sugere que a inteligência é uma implicação das representações, mas os textos não discutem a inteligência. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_54",
+        "response": "Os textos I e II falam sobre o auto da fé, um rito da Inquisição que tinha como objetivo punir hereges. O texto I é um aviso do Santo Ofício da Inquisição, que estabelece regras de comportamento para o dia do auto da fé. O texto II descreve o auto da fé como um rito complexo, com uma sequência de atos que conferem seu sentido. Ambos os textos mostram que a Igreja usava o auto da fé para estabelecer e reforçar padrões de conduta, o que torna a alternativa D a CORRETA. As alternativas A, B, C e E estão incorretas porque o auto da fé não tinha como objetivo abrandar cerimônias de punição, favorecer anseios de violência, criticar políticas de disciplina ou ordenar cultos de heresia. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_56",
+        "response": "O texto descreve o objeto como um tamborete que foi criado e usado por pessoas, e que sua história está ligada aos dons individuais dessas pessoas e suas práticas sociais. Isso inclui o conhecimento de modelos clássicos e a destreza nos desenhos, que são habilidades artísticas e culturais. Portanto, a alternativa A. é a CORRETA. As outras alternativas não são apoiadas pelo texto. Não há menção a vocações religiosas ou pedagógicas dos mestres (B), naturezas antropológica e etnográfica dos expositores (C), preservações arquitetônica e visual dos conservatórios (D), ou competências econômica e financeira dos comerciantes (E). Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_57",
+        "response": "O texto fala sobre o surgimento da filosofia na Grécia Antiga, que está intimamente ligado ao surgimento da Polis (cidade-estado grega). A categoria de pensadores que mais se encaixa nesse contexto são os sofistas, que eram conhecidos por sua habilidade na arte da retórica e por ensinarem essa habilidade para outros. Eles eram figuras importantes nas cidades-estado gregas, onde a habilidade de falar bem e persuadir os outros era altamente valorizada. Portanto, a alternativa C. é a CORRETA. As outras alternativas não estão corretas porque os epicuristas, estoicos e peripatéticos surgiram em períodos posteriores da filosofia grega, e os poetas rapsodos não estão diretamente relacionados ao surgimento da filosofia. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_58",
+        "response": "O Decreto-Lei n. 1 949, de 27/12/1937, criou o Departamento de Imprensa e Propaganda (DIP), que tinha como uma de suas finalidades coordenar e incentivar as relações da imprensa com os poderes públicos e autorizar a devolução dos depósitos efetuados pelas empresas jornalísticas para a importação de papel para imprensa. Isso indica que o governo tinha controle sobre o que era publicado, o que caracteriza um cerceamento da liberdade de expressão. Portanto, a alternativa D. é a CORRETA. As demais alternativas estão incorretas porque o texto não menciona a diversificação da opinião pública (A), a mercantilização da cultura popular (B), o controle das organizações sindicais (C) ou a privatização dos meios de comunicação (E). Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_60",
+        "response": "O texto descreve a relação do povo Kambeba com o rio como algo profundamente enraizado em sua cultura e afeto, sendo uma parte fundamental de sua identidade e tradições. Isso é evidenciado pela narrativa de que o povo Kambeba nasceu de uma gota d'água e pela prática diária de observar e ouvir o rio, que é passada de geração para geração. Portanto, a alternativa E. \"patrimônio cultural e afetivo\" é a CORRETA. As outras alternativas não se aplicam ao texto: o rio não é descrito como um objeto tombado e museográfico (A), nem como uma herança religiosa e sacralizada (B), nem como um cenário bucólico e paisagístico (C), nem como uma riqueza individual e efêmera (D). Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_61",
+        "response": "O texto descreve a construção do Açude Itans, um grande projeto de engenharia hidráulica, e destaca o esforço dos trabalhadores envolvidos. Não há menção a engenheiros, coronéis ou negociantes. A alternativa D. é a CORRETA, pois o texto descreve a formação de novos espaços através do trabalho dos sertanejos. A alternativa C. não é correta, pois embora o projeto envolva recursos hídricos, o texto não menciona a distribuição desses recursos. A alternativa E. também não é correta, pois não há menção a redes comerciais. A alternativa A. não é correta, pois embora o projeto seja de engenharia, o texto não menciona a presença de engenheiros. A alternativa B. não é correta, pois não há menção a coronéis ou ampliação de fazendas. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_62",
+        "response": "O texto destaca que o saber médico era considerado um instrumento fundamental para o desenvolvimento colonial, principalmente devido ao impacto das doenças tropicais na população branca e nos povos escravizados. Isso sugere que a medicina era importante para manter a força de trabalho escrava saudável e, portanto, produtiva. Assim, a importância da medicina se justifica no âmbito dos objetivos econômicos das elites, tornando a alternativa A a CORRETA. As alternativas B, C, D e E não são apoiadas pelo texto. Não há menção a naturalistas, abolicionistas, tradicionalistas ou emancipadores. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_64",
+        "response": "O princípio básico do Estado de direito, como mencionado no texto, é a eliminação do arbítrio no exercício dos poderes públicos, garantindo os direitos dos indivíduos perante esses poderes. Isso significa que todos, incluindo o presidente e o cidadão comum, estão sujeitos à lei. Portanto, a supressão de eleições de representantes políticos, que é uma violação do princípio democrático e do Estado de direito, é a alternativa correta, ou seja, a alternativa A. As outras alternativas não representam uma violação do princípio do Estado de direito. A intervenção da Igreja em áreas de vulnerabilidade (B) não viola o Estado de direito, desde que esteja de acordo com a lei. A disseminação de projetos sociais em universidades (C) é uma prática legal e não viola o Estado de direito. A ampliação dos processos de concentração de renda (D) pode ser injusta, mas não é necessariamente uma violação do Estado de direito. A regulamentação das relações de trabalho pelo Legislativo (E) é uma função legítima do governo e não viola o Estado de direito. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_65",
+        "response": "O texto fala sobre o tempo que as pessoas levam para ir de casa para o trabalho, o que é um exemplo de movimento pendular, pois se refere ao deslocamento diário de pessoas entre localidades distintas para trabalhar ou estudar e retornar à residência. Portanto, a alternativa D. é a CORRETA. As demais alternativas estão incorretas porque: A. Fluxo de retorno se refere ao movimento de pessoas que retornam ao seu local de origem após um período de tempo; B. Migração interna se refere ao movimento de pessoas dentro de um mesmo país, mas não necessariamente em um trajeto diário; C. Mudança sazonal se refere ao movimento de pessoas que mudam de local de residência de acordo com as estações do ano; E. Deslocamento forçado se refere ao movimento de pessoas que são obrigadas a deixar suas casas devido a conflitos, desastres naturais ou outras circunstâncias que ameaçam suas vidas. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_66",
+        "response": "O texto fala sobre a criação do Primeiro de Maio como uma data comemorativa para a classe operária. O objetivo era unificar essa classe, dando-lhe uma identidade política e cultural. Portanto, a alternativa B. \"afirmar uma identidade coletiva\" é a CORRETA. As outras alternativas não se aplicam ao contexto do texto: a data não foi criada para valorizar um sentimento burguês (A), nem para edificar uma memória nacional (C), nem para criar uma comunidade cívica (D), nem para definir uma tradição popular (E). Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_67",
+        "response": "Os discursos expressos pelos dois senadores no texto apresentam uma oposição entre a imposição cultural, que limita o currículo de matemática para as meninas, e a equidade de escolha, que defende um currículo idêntico ao dos meninos para as meninas. Portanto, a alternativa B. é a CORRETA. As demais alternativas não se aplicam diretamente ao contexto dos discursos. A alternativa A. fala sobre liberdade de gênero e controle social, mas o texto não discute sobre liberdade de gênero. A alternativa C. menciona dominação de corpos e igualdade humana, mas o texto não aborda a dominação de corpos. A alternativa D. menciona geração de oportunidade e restrição profissional, mas o texto não discute sobre oportunidades profissionais. A alternativa E. fala sobre exclusão de competências e participação política, mas o texto não discute sobre participação política. Resposta: B.",
+        "pred": "B.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_68",
+        "response": "O texto relata a ocupação de um terreno abandonado por um movimento social que reivindicava o direito de usar o espaço para a construção de casas. A estratégia usada pelo movimento social é a de garantir o preceito constitucional, que é o direito à moradia, conforme estabelecido no artigo 6º da Constituição Federal. Portanto, a alternativa D. é a CORRETA. As demais alternativas estão incorretas porque o texto não menciona nenhuma ação do movimento social para fragilizar o poder público (A), fomentar a economia solidária (B), controlar a propriedade estatal (C) ou incentivar a especulação imobiliária (E). Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_70",
+        "response": "No discurso de Putin, ele apela para a história e a identidade cultural compartilhada entre a Rússia e a Crimeia como justificativa para a anexação. Ele não menciona a língua comum como critério para a submissão à mesma autoridade estatal (A), nem se refere ao imperialismo soviético (B), à incapacidade de organismos transnacionais de resolver disputas territoriais (C), à integração regional (D) ou à expulsão de forças navais ocidentais (E). Portanto, nenhuma das alternativas apresentadas se encaixa no argumento de Putin. Resposta: Nenhuma das alternativas.",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_71",
+        "response": "O texto fala sobre a automação de postos de trabalho na área de dublagem, o que pode levar à diminuição de oportunidades para dubladores e atores. Isso é um exemplo de desemprego estrutural, que ocorre quando há uma mudança na estrutura da economia que leva à perda de empregos em certos setores. Portanto, a alternativa E. é a CORRETA. As outras alternativas não são apoiadas pelo texto. Não há menção à proteção da economia nacional (A), valorização da cultura tradicional (B), diminuição da formação acadêmica (C) ou estagnação da manifestação artística (D). Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_72",
+        "response": "O Mercosul é uma união aduaneira, o que significa que os países membros têm uma política comercial comum, incluindo a aplicação de uma Tarifa Externa Comum (TEC) sobre produtos importados de países não membros. Portanto, qualquer alteração na TEC deve ser negociada e acordada por todos os membros do Mercosul. Isso torna a alternativa C. a CORRETA. As alternativas A, B, D e E não são relevantes para a questão. A circulação financeira e a política monetária não são diretamente afetadas pela TEC. A exportação agrícola e a legislação trabalhista também não são fatores que explicam a necessidade de negociação diplomática para alterar a TEC. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_73",
+        "response": "O texto menciona que o auxílio aos famintos durante a fome na Itália em 536 era uma questão de gestão pública. Embora as ações fossem apresentadas como atos de caridade individual, elas eram, na verdade, responsabilidade dos agentes públicos. Portanto, a alternativa B, que atribui essa responsabilidade à realeza, é a CORRETA. As alternativas A, C, D e E estão incorretas porque atribuem a responsabilidade a grupos que não são mencionados no texto como responsáveis pela gestão pública durante esse período. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_74",
+        "response": "As forças tectônicas e meteorológicas interagem para formar diferentes características geográficas. Entre as alternativas, a formação de solos vulcânicos é a que mais se relaciona com essa interação, pois são formados a partir de erupções vulcânicas (forças tectônicas) e posteriormente modificados por processos de erosão e deposição (forças meteorológicas). Portanto, a alternativa A. é a CORRETA. As dorsais oceânicas são formadas principalmente por forças tectônicas, sem grande influência das forças meteorológicas. Relevos escarpados, superfícies lateríticas e dobramentos modernos também são formados principalmente por forças tectônicas, com pouca ou nenhuma influência das forças meteorológicas. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_76",
+        "response": "O texto de Foucault discute a maneira como a sociedade lida com aqueles que são considerados indesejáveis ou perigosos, seja por meio do exílio (como no caso dos leprosos) ou por meio de um controle meticuloso e subdividido (como no caso dos pestilentos). Essas práticas são características de uma sociedade disciplinar, que busca controlar e regular o comportamento de seus membros. Portanto, a alternativa A. é a CORRETA. As demais alternativas não se aplicam ao texto: a flexibilização do regramento social (B) e o banimento da autoridade repressora (C) são o oposto do que Foucault está descrevendo, enquanto a condenação da degradação humana (D) e a hierarquização da burocracia estatal (E) não são mencionadas ou implicadas no texto. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_77",
+        "response": "Os textos apresentam práticas religiosas que estão associadas à criação de lugares místicos e experiências do catolicismo popular. No primeiro texto, é mencionada a criação de um centro religioso, Juazeiro, que se tornou um lugar de peregrinação devido aos milagres atribuídos à beata Maria de Araújo. No segundo texto, é descrito um milagre que ocorreu durante uma cerimônia religiosa, que se tornou um evento importante para os fiéis e contribuiu para a popularização do catolicismo na região. Portanto, a alternativa E. é a CORRETA. As demais alternativas não se aplicam aos textos, pois não há menção à delimitação de paisagens urbanas, demarcação de patrimônios afetivos, expansão de fronteiras regionais, circunscrição de bens simbólicos ou admissão de cerimônias ecumênicas. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_78",
+        "response": "O texto fala sobre o Programa de Aquisição de Alimentos, que é um programa de compras públicas voltado para a agricultura familiar. Isso significa que o governo se compromete a comprar os produtos produzidos por esses agricultores, garantindo assim um mercado para seus produtos. Portanto, a alternativa C. \"Comercialização garantida\" é a CORRETA. As demais alternativas estão incorretas porque o texto não menciona inovação tecnológica (A), reestruturação fundiária (B), eliminação no custo do frete (D) ou negociação na bolsa de valores (E). Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_79",
+        "response": "O texto apresenta um experimento em que os celulares são usados para medir a atividade física dos participantes e, assim, incentivar a atividade física entre os membros de uma comunidade. O incentivo é dado de forma indireta, pois se uma pessoa aumenta sua atividade física, outras duas pessoas da comunidade recebem um incentivo financeiro. Isso estimula a reciprocidade e a cooperação entre os membros da comunidade, o que indica que os celulares estão desempenhando uma função social. Portanto, a alternativa B. é a CORRETA. As demais alternativas estão incorretas porque o texto não menciona que os celulares estão sendo usados para fins recreativos (A.), para converter desenvolvedores em usuários finais (C.), para direcionar a escolha por produtos industrializados (D.) ou para favorecer a aprendizagem por meio de ferramentas virtuais (E.). Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_80",
+        "response": "O texto menciona que os caixeiros estavam entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes públicos na mediação de suas lutas por direitos. Isso indica que eles estavam contestando as regras existentes e buscando mudanças, o que se alinha com a alternativa E. \"contestação dos princípios monárquicos\". Além disso, o texto menciona que eles participaram da arena política e se juntaram a outros grupos, como os republicanos e os abolicionistas, que estavam lutando contra a monarquia. Portanto, a alternativa E. é a CORRETA. As outras alternativas não são apoiadas pelo texto. A alternativa A. \"manutenção das regras patronais\" é o oposto do que os caixeiros estavam fazendo. A alternativa B. \"desprendimento das ideias liberais\" não é mencionada no texto. A alternativa C. \"fortalecimento dos contratos laborais\" não é o foco do texto. A alternativa D. \"consolidação das estruturas sindicais\" não é mencionada no texto. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_81",
+        "response": "O texto menciona que a salinização do solo ocorre devido à evaporação rápida da água que traz soluções de sais minerais, antes que ela possa se infiltrar totalmente no solo. Isso sugere que a irrigação inadequada, que não permite a drenagem adequada da água, pode agravar o problema da salinização. Portanto, a alternativa B. é a CORRETA. As outras alternativas não estão corretas porque: A. o texto não menciona o florestamento de pinus ou a prática do pousio; C. a instalação de açudes nos grotões pode retardar a vazão fluvial, mas isso não está diretamente relacionado à salinização do solo; D. o desmatamento de áreas de preservação permanente pode causar assoreamento, mas isso não está diretamente relacionado à salinização do solo; E. a aplicação de fertilizantes de origem orgânica pode modificar a química da terra, mas isso não está diretamente relacionado à salinização do solo. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_83",
+        "response": "O texto critica a construção da ferrovia Madeira-Mamoré, que, apesar de ser um marco do progresso científico e do desenvolvimento nacional, não respeitou os trabalhadores envolvidos no projeto. Esses trabalhadores, muitos dos quais ficaram doentes e morreram, são descritos como \"cobaias sem consolo, credores sem nome de uma sociedade que não lhes concedera tempo algum para ser decifrada\". Portanto, a alternativa E. é a CORRETA. As outras alternativas não se aplicam ao texto. Não há menção à engenharia ambiental, maquinaria estrangeira, investimento estatal ou farmacologia internacional. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_84",
+        "response": "O texto de Castells descreve uma economia que é global, informacional e em rede. Isso significa que a produção não está mais vinculada a um território específico, mas é distribuída globalmente através de redes de interação empresarial. Portanto, a mudança estrutural resultante dessa forma de organização econômica é a \"desterritorialização da produção\", tornando a alternativa E. a CORRETA. As outras alternativas não se aplicam diretamente ao texto: a fabricação em série (A) e a padronização de mercadorias (D) são características da produção industrial, não necessariamente da economia em rede; a ampliação de estoques (B) não é mencionada no texto; e a fragilização dos cartéis (C) não é uma consequência direta da economia em rede. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_85",
+        "response": "A letra da canção destaca a importância do espaço rural brasileiro como fornecedor de alimentos para a cidade, como é evidenciado pelas referências a produtos agrícolas como arroz, feijão, cacau e milho. Portanto, a alternativa D. \"promover a produção alimentar\" é a CORRETA. As outras alternativas não são apoiadas pelo texto. A canção não menciona a mão de obra qualificada (A), a inovação tecnológica (B), a diversidade biológica (C) ou a moradia básica (E). Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_86",
+        "response": "O texto destaca a crescente participação das mulheres na literatura e na imprensa durante o Segundo Reinado, tanto como leitoras quanto como escritoras. Isso está diretamente ligado ao surgimento de novas práticas culturais, que incluem a leitura e a escrita por mulheres, tornando a alternativa A a CORRETA. As outras alternativas não se aplicam ao contexto apresentado: a contestação de antigos hábitos masculinos (B) não é mencionada, a valorização de recentes publicações juvenis (C) não é o foco do texto, a circulação de variados manuais pedagógicos (D) não é discutida e o aparecimento de diversas editoras comerciais (E) também não é mencionado. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_87",
+        "response": "O texto descreve um experimento que o sertanejo realiza para prever o clima nos próximos meses. Ele faz isso através de uma prática que envolve tanto a observação das condições ambientais (as pedras de sal expostas ao relento) quanto a religiosidade (a referência a Santa Luzia e a tradição avoenga). Portanto, a alternativa D. \"íntimo à Caatinga ao interpretar condições ambientais\" é a CORRETA, pois captura essa relação entre o sertanejo, a paisagem e a religiosidade. As outras alternativas não são corretas porque: A. não há menção a destinos sacralizados; B. o texto não fala sobre pobreza ou acasos naturais; C. não há referência a terrenos cultiváveis; E. o texto não menciona a identificação de espécies arbustivas. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_88",
+        "response": "O texto de Hannah Arendt destaca a importância do discurso e da linguagem para a experiência humana coletiva, ou seja, para a sociabilidade. Ela argumenta que o significado das coisas só pode ser experimentado pelos homens através da fala e da inteligibilidade entre si e consigo mesmos. Isso indica que a linguagem é fundamental para a construção da sociabilidade, tornando a alternativa E a CORRETA. As outras alternativas não são corretas porque: A. o texto não discute diretamente o entendimento da cultura; B. a criatividade não é mencionada no texto; C. a percepção da individualidade é mencionada, mas como algo que pode existir fora da linguagem, não como algo que é construído por ela; D. a melhoria da técnica não é discutida no texto. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_89",
+        "response": "O texto de Carolina Maria de Jesus, uma escritora negra que viveu na favela, denuncia uma situação de violência racial, onde um guarda civil branco espanca e amarra um homem negro em uma árvore. Isso é um exemplo de racismo estrutural, onde a violência e a discriminação racial estão enraizadas nas instituições e na sociedade. Portanto, a alternativa A. é a CORRETA. As outras alternativas, embora sejam problemas sociais relevantes no Brasil, não são o foco do texto. O texto não menciona desemprego (B), concentração de renda (C), exclusão informacional (D) ou precariedade da educação (E). Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_91",
+        "response": "O mecanismo utilizado no experimento é a apresentação de antígeno específico. O protozoário modificado geneticamente produz moléculas que são também produzidas pelas células tumorais. Quando o sistema imunológico do corpo começa a combater o protozoário, ele também entra em contato com a molécula tumoral. Isso faz com que o sistema imunológico reconheça a molécula tumoral como um indicador de células do protozoário e comece a destruir todas as células que contêm a molécula tumoral. Portanto, a alternativa D. é a CORRETA. As outras alternativas estão incorretas porque: A autoimunidade é um estado em que o sistema imunológico do corpo ataca suas próprias células e tecidos, o que não é o caso aqui. A hipersensibilidade é uma reação exagerada do sistema imunológico a um antígeno, o que também não é o caso aqui. A ativação da resposta inata é uma resposta imunológica não específica que ocorre imediatamente ou poucas horas após a exposição a um antígeno, o que não é o caso aqui. O desencadeamento de processo anti-inflamatório não é mencionado no texto. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_93",
+        "response": "A \"luz engarrafada\" funciona devido ao fenômeno da refração. A luz solar, ao passar pela garrafa de água, é refratada, ou seja, muda de direção e se espalha, iluminando o ambiente. Portanto, a alternativa E. é a CORRETA. A difração é um fenômeno que ocorre quando a luz encontra um obstáculo e se espalha, mas não é o que ocorre nesse caso. A absorção é quando a luz é absorvida por um material, o que também não ocorre aqui. A polarização é um fenômeno que altera a direção do campo elétrico da luz, o que não é relevante para o funcionamento da \"luz engarrafada\". Por fim, a reflexão é quando a luz bate em uma superfície e retorna, o que também não é o que ocorre nesse caso. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_95",
+        "response": "O texto menciona que a bactéria Wolbachia reduz a carga viral no mosquito e que tanto a bactéria quanto o vírus necessitam de recursos comuns para se reproduzir. Isso sugere que a bactéria e o vírus estão competindo pelos mesmos recursos dentro do mosquito, o que leva à redução da carga viral. Portanto, a alternativa D. é a CORRETA. As outras alternativas estão incorretas porque: A. o texto não menciona que a bactéria está predando o vírus; B. a bactéria não está esterilizando os mosquitos, mas reduzindo a carga viral; C. o texto não menciona qualquer alteração no genótipo do mosquito; E. o texto não menciona a inserção de material genético do vírus na bactéria. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_96",
+        "response": "No processo de tratamento de água, a etapa de retirada de grande parte dos sólidos suspensos é a decantação. Durante a decantação, a água é deixada em repouso para que os sólidos mais pesados se depositem no fundo do recipiente, sendo assim separados da água. Portanto, a alternativa B. é a CORRETA. A coagulação é a etapa que precede a decantação e serve para aglomerar as partículas de sujeira, facilitando a sua remoção na decantação. A filtração é a etapa que segue a decantação e serve para remover as partículas menores que não foram removidas na decantação. A desinfecção e a fluoretação são etapas que visam a tornar a água segura para consumo, eliminando micro-organismos e adicionando flúor para prevenir cáries dentárias, respectivamente. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_97",
+        "response": "A termogenina interfere na fosforilação oxidativa, que é a etapa final da respiração celular, onde ocorre a maior produção de ATP. A termogenina impede a chegada dos prótons até a ATP sintetase, gerando calor ao invés de ATP. Portanto, a alternativa E. é a CORRETA. A glicólise é a primeira etapa da respiração celular e ocorre no citoplasma, não sendo afetada pela termogenina. A fermentação lática é um processo anaeróbico que ocorre na ausência de oxigênio, também não sendo afetada pela termogenina. O ciclo do ácido cítrico é a segunda etapa da respiração celular e ocorre na matriz mitocondrial, não sendo afetado pela termogenina. A oxidação do piruvato é uma etapa intermediária entre a glicólise e o ciclo do ácido cítrico, também não sendo afetada pela termogenina. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_100",
+        "response": "Os bastonetes são células fotossensíveis da retina que são responsáveis pela visão em condições de baixa luminosidade. Portanto, um animal com bastonetes mais sensíveis terá uma melhor visão em ambientes mal iluminados, o que torna a alternativa C. a CORRETA. As demais alternativas estão incorretas porque: A. o daltonismo é uma condição que afeta a percepção das cores e está relacionada aos cones, não aos bastonetes; B. a percepção de cores fora do espectro visível não está relacionada à sensibilidade dos bastonetes; D. um animal com bastonetes mais sensíveis não necessitaria de mais luminosidade para enxergar, pelo contrário, ele seria capaz de enxergar melhor em condições de baixa luminosidade; E. a distinção de cores em ambientes iluminados está relacionada aos cones, não aos bastonetes. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_101",
+        "response": "A molécula PEG-collineína-1, desenvolvida a partir de uma proteína encontrada no veneno da cascavel, tem a capacidade de modular a coagulação sanguínea. Isso significa que ela pode interferir no processo de formação de coágulos sanguíneos. Portanto, a alternativa A, que menciona a prevenção da formação de trombos, é a CORRETA. Trombos são coágulos que podem causar acidentes vasculares cerebrais (AVCs), entre outros problemas de saúde. As demais alternativas estão incorretas porque não se relacionam com a coagulação sanguínea. A anemia profunda (B) está relacionada à perda de sangue, não à coagulação. Urticárias (C) são relacionadas a reações alérgicas, não à coagulação. O inchaço dos linfonodos (D) está relacionado à resposta imunológica, não à coagulação. A oscilação da pressão arterial (E) está relacionada à hipertensão, não à coagulação. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_102",
+        "response": "A força gravitacional que um corpo exerce depende de sua massa e da distância até ele. Se o Sol fosse substituído por um buraco negro de mesma massa, a força gravitacional que ele exerce sobre os planetas do Sistema Solar não mudaria, pois a massa do Sol (agora buraco negro) e a distância dos planetas até ele permaneceriam as mesmas. Portanto, os planetas continuariam a se mover em suas órbitas originais. Isso torna a alternativa E. a CORRETA. As demais alternativas estão incorretas porque implicam em mudanças nas órbitas dos planetas, o que não ocorreria nesse cenário. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_103",
+        "response": "O ozônio é uma substância conhecida por sua ação oxidante, ou seja, ele tem a capacidade de receber elétrons de outras substâncias, alterando suas propriedades químicas. Isso pode ser perigoso, pois pode danificar tecidos vivos e materiais diversos. Portanto, a alternativa B. é a CORRETA. O ozônio não atua como catalisador, pois não acelera reações químicas sem ser consumido por elas. Também não é um redutor, pois não doa elétrons a outras substâncias. Além disso, o ozônio não é classificado como ácido ou base, pois não doa prótons (H+) nem recebe íons hidroxila (OH-), respectivamente. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_105",
+        "response": "A força eletromotriz total das pilhas em série é a soma das forças eletromotriz de cada pilha. Quando uma das pilhas é invertida, sua força eletromotriz é subtraída da força eletromotriz total, resultando em uma força eletromotriz total de 1,5 V (1,5V + 1,5V - 1,5V). A resistência total do circuito é a soma das resistências internas das pilhas, que é 1,5 Ω (0,5Ω + 0,5Ω + 0,5Ω). Usando a lei de Ohm (I = V/R), a intensidade da corrente que passa pela lâmpada é 1,5V / 1,5Ω = 1,00 A. Portanto, a alternativa D. é a CORRETA. As demais alternativas estão incorretas porque não correspondem ao cálculo correto da intensidade da corrente. Resposta: D.",
+        "pred": "D.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_108",
+        "response": "Para resolver essa questão, é necessário calcular a corrente máxima do circuito e, em seguida, escolher o disjuntor com corrente nominal imediatamente superior a essa corrente. A corrente máxima do circuito pode ser calculada usando a fórmula P = V.I, onde P é a potência, V é a tensão e I é a corrente. A potência máxima ocorre quando a ducha está no nível superquente e a vazão é de 3 L/min. Nesse caso, a variação de temperatura é de 30°C. Usando a fórmula Q = m.c.ΔT, onde Q é a energia térmica, m é a massa de água, c é o calor específico da água e ΔT é a variação de temperatura, podemos calcular a potência como P = Q/t, onde t é o tempo. Substituindo os valores, obtemos P = (3 kg/min * 4,2 kJ/kg°C * 30°C) / (1 min) = 3780 W. Substituindo esse valor na fórmula P = V.I, obtemos I = P/V = 3780 W / 220 V = 17,18 A. Portanto, o disjuntor adequado é o que tem corrente nominal imediatamente superior a 17,18 A, que é 20 A. Portanto, a alternativa correta é C. As outras alternativas estão incorretas porque os disjuntores especificados por elas têm correntes nominais que não são imediatamente superiores a 17,18 A. Resposta: C.",
+        "pred": "C.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_111",
+        "response": "A tensão máxima na corda ocorre quando o balanço está na posição horizontal, ou seja, quando o ângulo em relação à vertical é de 90°. Nesse caso, a força de tensão na corda é a soma da força peso da criança com a força centrípeta necessária para manter a criança em movimento circular. A força peso é dada por Fp = m*g, onde m é a massa da criança (24 kg) e g é a aceleração da gravidade (10 m/s²), resultando em Fp = 240 N. A força centrípeta é dada por Fc = m*v²/r, onde v é a velocidade da criança e r é o raio do movimento circular. Como o movimento é aproximado para um movimento circular uniforme, a força centrípeta é igual à força peso, ou seja, Fc = Fp = 240 N. Portanto, a tensão máxima na corda é a soma dessas duas forças, resultando em Tmáx = Fp + Fc = 480 N. Como o pai optou por uma corda cuja tensão de ruptura é 25% superior à tensão máxima, a tensão de ruptura da corda escolhida é Tr = Tmáx + 0,25*Tmáx = 480 N + 0,25*480 N = 600 N. Portanto, a alternativa correta é B. Resposta: B.",
+        "pred": "B.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_112",
+        "response": "A nanotecnologia aplicada na proteção contra a corrosão, conforme descrito no texto, consiste na deposição de filmes finos nanocerâmicos à base de zircônia (ZrO2) e alumina (Al2O3) sobre a superfície do objeto que se deseja proteger. Isso cria uma barreira que impede o contato do metal com o agente oxidante (água e oxigênio), prevenindo a corrosão. Portanto, a alternativa D. é a CORRETA. As alternativas A., B., C. e E. estão incorretas porque não descrevem o processo de proteção contra a corrosão descrito no texto. A proteção catódica e o uso de metais de sacrifício envolvem a utilização de um metal diferente que se oxida no lugar do metal que se deseja proteger. A passivação envolve o revestimento do metal pelo seu próprio óxido, e a galvanização envolve o uso de outros metais de menor potencial de redução. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_113",
+        "response": "Em um ambiente hipotônico, a célula tende a absorver água, fazendo com que o vacúolo, que é uma organela que armazena substâncias, aumente de tamanho. Isso pode levar à diluição do pigmento presente no vacúolo, tornando a cor menos intensa. Portanto, a alternativa C. é a CORRETA. As alternativas A, B, D e E estão incorretas porque não descrevem corretamente o que acontece quando uma célula é colocada em um ambiente hipotônico. Não há acúmulo de solvente com fragmentação da organela, nem rompimento da membrana celular com liberação do citosol, nem quebra da parede celular com extravasamento do pigmento, nem murchamento da célula com expulsão do pigmento do vacúolo. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_114",
+        "response": "A variação de temperatura é inversamente proporcional ao calor específico. Portanto, a razão entre as variações de temperatura nas áreas concretada e alagada é igual à razão entre os calores específicos da água e do concreto. Calculando essa razão, temos: 4,2 (água) / 0,8 (concreto) = 5,25. A alternativa mais próxima desse valor é a D. 5,3. As demais alternativas estão incorretas porque não correspondem ao valor calculado. Resposta: D.",
+        "pred": "D.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_116",
+        "response": "Os padrões descritos mostram que diferentes espécies de anfíbios anuros adotam estratégias reprodutivas variadas para garantir o sucesso reprodutivo. Portanto, a alternativa D. é a CORRETA. As alternativas A, B e C são incorretas porque os padrões descritos não fornecem evidências suficientes para apoiar essas afirmações. A alternativa E é incorreta porque, embora o ambiente possa influenciar o número de gametas produzidos, os padrões descritos não fornecem evidências suficientes para apoiar essa afirmação. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_120",
+        "response": "A eritropoietina é um hormônio que regula a produção de glóbulos vermelhos, que são responsáveis pelo transporte de oxigênio no sangue. Portanto, o uso de eritropoietina em quantidades superiores às naturais aumenta a quantidade de glóbulos vermelhos no sangue, o que aumenta a taxa de transporte de oxigênio pelo sangue. Isso permite que o indivíduo realize mais exercícios físicos, pois mais oxigênio está disponível para os músculos. Portanto, a alternativa E. é a CORRETA. As outras alternativas estão incorretas porque a eritropoietina não afeta diretamente a frequência cardíaca, a capacidade pulmonar, a massa muscular do indivíduo ou a atividade anaeróbica da musculatura. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_121",
+        "response": "A força média exercida sobre o carro é inversamente proporcional ao tempo de colisão. Como o tempo de colisão é o mesmo nas duas situações, a força média também será a mesma. A energia mecânica dissipada é a energia que o carro perde durante a colisão. Na colisão com a barreira de pneus, o carro retorna com velocidade reduzida, ou seja, ainda possui energia cinética após a colisão. Já na colisão com a barreira de blocos, o carro não retorna, ou seja, toda a sua energia cinética é dissipada na colisão. Portanto, a energia dissipada é maior na colisão com a barreira de blocos. A alternativa correta é a A. As demais alternativas estão incorretas porque afirmam que a força média é diferente nas duas situações ou que a energia dissipada é maior na colisão com a barreira de pneus. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_124",
+        "response": "A introdução de espécies exóticas em um ambiente pode levar à redução da biodiversidade, pois essas espécies podem ocupar áreas de vegetação nativa e substituir parcialmente a flora original, como afirmado na alternativa A, que é a CORRETA. As espécies exóticas podem competir por recursos com as espécies nativas, levando à diminuição ou extinção destas últimas. A alternativa B está incorreta, pois a competição por frutos não necessariamente elimina as espécies perdedoras. A alternativa C está incorreta, pois a alteração dos nichos não aumenta o número de possibilidades de relações entre os seres vivos, mas sim pode desequilibrar o ecossistema. A alternativa D está incorreta, pois a alta taxa de reprodução e o número de indivíduos superior à capacidade suporte do ambiente não são características exclusivas de espécies exóticas. A alternativa E está incorreta, pois a diminuição da relação de competição entre os polinizadores e a facilitação da ação de dispersores de sementes de espécies nativas não são consequências da introdução de espécies exóticas. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_125",
+        "response": "Para resolver essa questão, é necessário aplicar a fórmula da física que relaciona a altura máxima atingida por um projétil lançado horizontalmente com a distância horizontal percorrida por ele. A fórmula é h = d²g/2v², onde h é a altura máxima, d é a distância horizontal, g é a aceleração da gravidade e v é a velocidade inicial do projétil. No caso, a velocidade inicial é a mesma em ambas as direções, então a fórmula pode ser simplificada para h = d²/2g. Substituindo os valores dados na questão, temos h = 3²/2*10 = 9/20 = 0,45 m. Como a mangueira estava a 1 m de altura em relação ao chão, a altura total alcançada pelo jato de água é 1 + 0,45 = 1,45 m, que arredondado dá 1,50 m. Portanto, a alternativa A. é a CORRETA. As demais alternativas estão incorretas porque não correspondem ao resultado obtido pelos cálculos. Resposta: A.",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_127",
+        "response": "A PCR (Reação em Cadeia da Polimerase) é uma técnica que amplifica uma sequência específica de DNA. No caso do SARS-CoV-2, um vírus de RNA, é necessário primeiro converter o RNA viral em DNA complementar (cDNA) para que a PCR possa ser realizada. Esse processo é chamado de transcrição reversa. Portanto, a alternativa E. é a CORRETA. As demais alternativas estão incorretas porque: A. A concentração do RNA viral não é o objetivo dessa etapa, mas sim a sua conversão em cDNA; B. A identificação de anticorpos anti-SARS-CoV-2 não é realizada nessa etapa, mas sim em testes sorológicos; C. A proliferação do vírus em culturas não é necessária para a PCR; D. A purificação de ácidos nucleicos virais não é o objetivo dessa etapa, mas sim a conversão do RNA viral em cDNA. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_129",
+        "response": "A diferença de massa entre os isótopos de urânio-235 e urânio-238 pode ser explorada por meio de um processo de centrifugação. A centrifugação é um método de separação que utiliza a força centrífuga para separar partículas de diferentes massas. Portanto, a alternativa B. é a CORRETA. A peneiração não seria eficaz para separar isótopos de urânio, pois eles são muito pequenos e têm massas muito semelhantes. A extração por solvente não seria útil, pois ambos os isótopos são solúveis no mesmo solvente. A destilação fracionada não seria eficaz, pois os pontos de ebulição dos isótopos são muito semelhantes. A separação magnética não seria útil, pois os isótopos de urânio não são magneticamente diferentes. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_130",
+        "response": "A terapia gênica descrita no texto envolve a inserção de uma cópia normal do gene humano RPE65 em um vírus, que é usado para corrigir o funcionamento das células da retina. Isso implica que o gene inserido será expresso, ou seja, será transcrito e traduzido para produzir a proteína normal que o gene RPE65 codifica. Portanto, a alternativa E. é a CORRETA. As outras alternativas estão incorretas porque: A. a terapia não corrige o código genético, mas adiciona uma cópia normal do gene; B. não há menção à alteração do RNA ribossômico; C. a terapia não produz mutações, mas usa um gene normal para corrigir um problema; D. a terapia não libera a proteína diretamente, mas insere um gene que será expresso para produzir a proteína. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_133",
+        "response": "A filariose e a leishmaniose são doenças transmitidas por vetores, ou seja, por organismos que carregam e transmitem o agente infeccioso. No caso da filariose, o vetor é um mosquito, e no caso da leishmaniose, é um inseto conhecido como flebotomíneo. Portanto, uma medida profilática comum a essas duas doenças é o controle das populações dos vetores, o que torna a alternativa D. a CORRETA. As demais alternativas não são medidas profiláticas comuns a essas duas doenças. A incineração do lixo orgânico (A) e a construção de rede de esgoto (B) são medidas importantes para o controle de doenças transmitidas por vetores que se reproduzem em ambientes com acúmulo de lixo e água parada, mas não são específicas para a filariose e a leishmaniose. O uso de vermífugo pela população (C) é uma medida para o controle de doenças causadas por vermes, e não por protozoários, como é o caso da leishmaniose, ou por nematódeos, como é o caso da filariose. O consumo de carnes vermelhas bem cozidas (E) é uma medida para prevenir doenças transmitidas por alimentos contaminados, e não tem relação com a filariose e a leishmaniose. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_134",
+        "response": "A potência instalada do parque é de 150 MW, ou seja, 150.000.000 W. Sabendo que a eficiência dos painéis é de 20% e que a irradiância solar média é de 1.500 W/m², podemos calcular a área total dos painéis solares dividindo a potência total pela eficiência dos painéis e pela irradiância solar média. Assim, a área total dos painéis solares é de 150.000.000 W / (0,20 * 1.500 W/m²) = 500.000 m². Portanto, a alternativa B é a CORRETA. As demais alternativas estão incorretas porque não correspondem ao cálculo realizado. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_135",
+        "response": "O ácido clorídrico concentrado reage com o cianeto de potássio liberando gás cianídrico, que é extremamente tóxico. Portanto, o descarte do conjunto (1) resultará em liberação de gás tóxico. Já o ácido nítrico concentrado reage com a sacarose (um tipo de matéria orgânica) em uma reação de oxidação forte, que pode levar à explosão e à formação de produtos tóxicos. Portanto, o descarte do conjunto (2) resultará em uma reação oxidativa forte. Assim, a alternativa correta é a A. As demais alternativas estão incorretas porque não descrevem corretamente as reações que ocorrerão com o descarte dos conjuntos (1) e (2). Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_138",
+        "response": "Para converter bilhões em unidades, precisamos adicionar nove zeros ao número. Portanto, 1,35 bilhão se torna 1 350 000 000,00. Assim, a alternativa E. é a CORRETA. As demais alternativas estão incorretas porque não representam o valor de 1,35 bilhão. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_141",
+        "response": "O volume de uma esfera é dado pela fórmula V = 4/3πr³. Portanto, o volume de um docinho de 2 cm de diâmetro (1 cm de raio) é V = 4/3π(1)³ = 4/3π. O volume de um docinho de 4 cm de diâmetro (2 cm de raio) é V = 4/3π(2)³ = 32/3π. Portanto, um docinho de 4 cm de diâmetro tem oito vezes o volume de um docinho de 2 cm de diâmetro. Como a cozinheira precisa fazer 150 docinhos de 4 cm de diâmetro, ela precisará de 150/50 = 3 vezes a quantidade de massa que ela normalmente usa para fazer 50 docinhos de 2 cm de diâmetro. No entanto, como cada docinho de 4 cm de diâmetro requer oito vezes a quantidade de massa de um docinho de 2 cm de diâmetro, ela precisará de 3 * 8 = 24 vezes a quantidade de massa que ela normalmente usa para fazer 50 docinhos de 2 cm de diâmetro. Portanto, ela precisará preparar 24 porções da receita-base de massa. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_143",
+        "response": "Para resolver essa questão, é necessário calcular a área de revestimento de cada projeto. A área de revestimento de um paralelepípedo é dada pela soma das áreas de todas as suas faces. Para um paralelepípedo reto retângulo, temos duas faces de área igual a profundidade x largura, duas faces de área igual a profundidade x comprimento e duas faces de área igual a largura x comprimento. Calculando a área de revestimento para cada projeto, temos:\n\nProjeto I: 2*(1,8*2) + 2*(1,8*25) + 2*(2*25) = 180 m²\nProjeto II: 2*(2*5) + 2*(2*9) + 2*(5*9) = 142 m²\nProjeto III: 2*(1*6) + 2*(1*15) + 2*(6*15) = 198 m²\nProjeto IV: 2*(1,5*15) + 2*(1,5*4) + 2*(15*4) = 174 m²\nProjeto V: 2*(2,5*3) + 2*(2,5*12) + 2*(3*12) = 165 m²\n\nPortanto, o projeto que exige a menor área de revestimento é o projeto II, tornando a alternativa B a CORRETA. As demais alternativas estão incorretas porque os projetos correspondentes exigem uma área de revestimento maior. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_145",
+        "response": "Primeiro, precisamos calcular o volume da peça cilíndrica. O volume de um cilindro é dado pela fórmula V = πr²h, onde r é o raio e h é a altura. Substituindo os valores dados, temos V = π(4)²(50) = 800π cm³. Em seguida, precisamos calcular o volume de uma esfera. O volume de uma esfera é dado pela fórmula V = 4/3πr³, onde r é o raio. O diâmetro da esfera é dado como 1 cm, então o raio é 0,5 cm. Substituindo esse valor na fórmula, temos V = 4/3π(0,5)³ = π/6 cm³. Para encontrar o número de esferas que podem ser feitas a partir da peça cilíndrica, dividimos o volume da peça cilíndrica pelo volume de uma esfera. Isso nos dá 800π ÷ π/6 = 4800. Portanto, a alternativa D. é a CORRETA. As outras alternativas estão incorretas porque não correspondem ao número correto de esferas que podem ser feitas a partir da peça cilíndrica. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_147",
+        "response": "O volume de um cilindro é dado pela fórmula V = πr²h, onde r é o raio da base e h é a altura (ou profundidade, no caso das caixas d'água). Analisando as alterações feitas em cada modelo em relação ao modelo I, temos: Modelo II: o volume é 2P*(Aᵇ/2) = PAᵇ, igual ao volume do modelo I. Modelo III: o volume é 2P*π*(r/2)² = Pπr²/2, menor que o volume do modelo I. Modelo IV: o volume é (P/2)*2Aᵇ = PAᵇ, igual ao volume do modelo I. Modelo V: o volume é (P/2)*π*(2r)² = 2Pπr², o dobro do volume do modelo I. Portanto, o modelo V é o que oferece a maior capacidade volumétrica. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_149",
+        "response": "Primeiro, vamos calcular o salário médio atual: (60 mestres x R$ 8.000,00 + 40 doutores x R$ 12.000,00) / 100 professores = R$ 9.600,00. Agora, vamos calcular o novo salário dos mestres após o aumento de 25%: R$ 8.000,00 x 1,25 = R$ 10.000,00. O salário médio após o aumento dos mestres e antes do aumento dos doutores seria: (60 mestres x R$ 10.000,00 + 40 doutores x R$ 12.000,00) / 100 professores = R$ 10.800,00. A diferença entre o salário médio desejado e o salário médio após o aumento dos mestres é: R$ 12.240,00 - R$ 10.800,00 = R$ 1.440,00. Este valor representa o aumento total que pode ser distribuído entre os doutores. Como temos 40 doutores, cada um pode receber um aumento de: R$ 1.440,00 / 40 = R$ 36,00. O percentual de aumento para os doutores seria então: (R$ 36,00 / R$ 12.000,00) x 100 = 0,3%, que não está entre as alternativas. Portanto, todas as alternativas estão incorretas. Resposta: Nenhuma das alternativas.",
+        "pred": "C.",
+        "gold": "D.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_150",
+        "response": "Para calcular a quantidade de inseticida liberada a cada acionamento, é necessário dividir a quantidade total de inseticida pelo número total de acionamentos. O número total de acionamentos é dado pelo número de minutos em 60 dias (60 dias * 24 horas/dia * 60 minutos/hora = 86400 minutos) dividido pelo intervalo entre acionamentos (48 minutos). Portanto, o número total de acionamentos é 86400/48 = 1800 acionamentos. Dividindo a quantidade total de inseticida (360 mL) pelo número total de acionamentos (1800), obtemos 0,2 mL por acionamento. Portanto, a alternativa correta é B. As outras alternativas estão incorretas porque não resultam do cálculo correto. Resposta: B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_151",
+        "response": "Para resolver essa questão, precisamos entender que 1 ano terrestre corresponde a 365 dias terrestres. No planeta Z, 1 dia corresponde a 73 dias terrestres. Portanto, 1 ano terrestre corresponderia a 365/73 = 5 dias no planeta Z. No entanto, sabemos que 2 anos no planeta Z correspondem a 1 ano terrestre. Portanto, 1 ano no planeta Z corresponderia a 5/2 = 2,5 dias no planeta Z. Portanto, a alternativa A. é a CORRETA. As demais alternativas estão incorretas porque não correspondem ao cálculo correto. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_153",
+        "response": "O preço normal da geladeira é 10% maior que o preço promocional, ou seja, R$ 1.100,00. Com o desconto de 2% para pagamento com o cartão de crédito da loja, o valor a ser pago seria R$ 1.078,00. A cliente, por sua vez, calculou que o valor a ser pago seria o preço promocional acrescido de 8%, ou seja, R$ 1.080,00. Portanto, o valor apresentado pela loja, comparado ao valor calculado pela cliente, foi R$ 2,00 menor. Assim, a alternativa correta é a A. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_158",
+        "response": "Para resolver essa questão, precisamos encontrar o valor máximo da função p(t) = -t^2 + 10t + 24. O valor máximo de uma função quadrática ax^2 + bx + c, onde a < 0, ocorre no vértice da parábola, que tem coordenadas x = -b/2a. Substituindo os valores da função dada, temos t = -10/(2*-1) = 5. Portanto, o mês com o maior número de infectados é o mês 5. Olhando as propostas, a proposta III é a única que inclui o mês 5. Portanto, a alternativa correta é C. As outras alternativas estão incorretas porque seus intervalos de tempo não incluem o mês 5. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_162",
+        "response": "Se o número de vagas criadas em janeiro de 2013 (28 900 vagas) corresponde a uma queda de 75% em relação ao mesmo período de 2012, isso significa que essas 28 900 vagas correspondem a 25% do total de vagas criadas em janeiro de 2012. Para encontrar o total de vagas criadas em janeiro de 2012, basta dividir o número de vagas de 2013 por 0,25 (25%). Assim, 28 900 / 0,25 = 115 600 vagas. Portanto, a alternativa correta é C. As demais alternativas estão incorretas porque não correspondem ao cálculo correto. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_163",
+        "response": "A pessoa quer comprar dois apartamentos em um mesmo andar, e em ambos, pelo menos um dos quartos deve receber sol na parte da manhã. Isso significa que ela pode escolher entre os apartamentos que terminam em 1, 2, 3, 4, 5 ou 6. Portanto, em cada andar, ela tem 6 opções de apartamentos para escolher. Como ela quer comprar dois apartamentos, o número de combinações possíveis em cada andar é dado pela fórmula de combinação, que é n! / ((n - r)! x r!), onde n é o número total de opções e r é o número de opções que queremos escolher. Portanto, o número de combinações possíveis em cada andar é 6! / ((6 - 2)! x 2!) = 15. Como o prédio tem 9 andares, o número total de maneiras diferentes que a pessoa pode escolher os apartamentos é 9 x 15 = 135. Portanto, a alternativa correta é B. Resposta: B. \n\nAs demais alternativas estão incorretas porque não consideram corretamente o número de opções disponíveis em cada andar (alternativas A, C, D) ou subtraem uma opção que não deveria ser subtraída (alternativa E).",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_164",
+        "response": "A pessoa ingeriu 1,7 L de água, que corresponde a 1,7 kg. Se essa quantidade é 40% a mais do que a massa perdida na atividade física, então a massa perdida na atividade física é de 1,7 kg / 1,4 = 1,214 kg. Como a perda média de massa para cada hora de atividade física é de 1,5 kg, então a atividade física dessa pessoa durou 1,214 kg / 1,5 kg/h = 0,809 h, ou seja, aproximadamente 48,5 minutos. Portanto, a alternativa correta é C. mais de 45 e menos de 55 minutos. As demais alternativas estão incorretas porque não correspondem ao tempo calculado. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_166",
+        "response": "De acordo com a Lei de Stefan-Boltzmann, a luminosidade de uma estrela é proporcional ao quadrado do seu raio e à quarta potência da sua temperatura. Portanto, se a estrela E tem metade do raio da estrela F e o dobro da temperatura de F, a relação entre suas luminosidades será dada por Le = c ⋅ (R/2)^2 ⋅ (2T)^4 e Lf = c ⋅ R^2 ⋅ T^4. Simplificando, temos Le = c ⋅ R^2/4 ⋅ 16T^4 e Lf = c ⋅ R^2 ⋅ T^4. Dividindo Le por Lf, obtemos Le/Lf = (c ⋅ R^2/4 ⋅ 16T^4) / (c ⋅ R^2 ⋅ T^4) = 4. Portanto, a relação entre as luminosidades dessas duas estrelas é Le = 4 ⋅ Lf, o que corresponde à alternativa D. As demais alternativas estão incorretas porque não levam em conta a relação correta entre o raio e a temperatura das estrelas. Resposta: D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_169",
+        "response": "No pacote básico, a proporção entre gemas e moedas de ouro é de 2.000 gemas para 100.000 moedas de ouro, ou seja, para cada gema temos 50 moedas de ouro. No pacote especial, a empresa decidiu inserir 6.000 gemas a mais do que o cliente teria caso comprasse dois pacotes básicos, ou seja, o pacote especial terá 2.000 gemas (do pacote básico) + 2.000 gemas (do segundo pacote básico) + 6.000 gemas (a mais) = 10.000 gemas. Para manter a mesma proporção do pacote básico, a empresa deverá inserir 10.000 gemas * 50 moedas de ouro/gema = 500.000 moedas de ouro. No entanto, o cliente já teria 200.000 moedas de ouro caso comprasse dois pacotes básicos, então a empresa precisa inserir 500.000 - 200.000 = 300.000 moedas de ouro a mais no pacote especial. Portanto, a alternativa correta é D. As demais alternativas estão incorretas porque não mantêm a mesma proporção entre gemas e moedas de ouro do pacote básico. Resposta: D.",
+        "pred": "D.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_170",
+        "response": "Podemos montar um sistema de equações para resolver essa questão. Seja x a distância do circuito maior e y a distância do circuito menor. Temos então as seguintes equações: 3x + 2y = 1800 e 2x + y = 1100. Resolvendo esse sistema, encontramos x = 400 e y = 300. Portanto, a distância total que o corredor pretende percorrer no segundo dia, 5000 m, será dividida em voltas de 400 m e 300 m. Para maximizar o número de voltas, o corredor deve dar preferência ao circuito menor. Assim, ele pode dar 13 voltas no circuito menor (13*300 = 3900 m) e 2 voltas no circuito maior (2*400 = 800 m), totalizando 4700 m. Sobram 300 m, que ele pode percorrer dando mais uma volta no circuito menor. Portanto, no segundo dia, o corredor dará um total de 13 + 2 + 1 = 16 voltas. Resposta: E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_171",
+        "response": "Primeiro, precisamos calcular quantas pessoas compraram o produto em cada rede social na primeira divulgação. Na rede social A, 10% de 3000 pessoas clicaram no anúncio, o que dá 300 pessoas. Dessas, 3% compraram o produto, o que dá 9 compradores. Na rede social B, 30% de 1000 pessoas clicaram no anúncio, o que dá 300 pessoas. Dessas, 2% compraram o produto, o que dá 6 compradores. Portanto, o total de compradores na primeira divulgação foi de 15 pessoas.\n\nAgora, precisamos calcular quantas pessoas compraram o produto na segunda divulgação. Como o investimento foi de R$ 300,00 em cada rede social, o número de visualizações aumentou proporcionalmente. Portanto, na rede social A, o anúncio foi visualizado por 9000 pessoas (3000 pessoas x 3), e na rede social B, por 4000 pessoas (1000 pessoas x 4). Mantendo as mesmas taxas de cliques e compras, na rede social A, 27 pessoas compraram o produto, e na rede social B, 24 pessoas. Portanto, o total de compradores na segunda divulgação foi de 51 pessoas.\n\nPara calcular o aumento percentual, subtraímos o número de compradores na primeira divulgação do número de compradores na segunda divulgação, dividimos pelo número de compradores na primeira divulgação e multiplicamos por 100. Portanto, o aumento percentual foi de (51 - 15) / 15 * 100 = 240%.\n\nDe acordo com o critério adotado pelo responsável pelo produto, um aumento de 240% é classificado como excelente. Portanto, a alternativa correta é E. Resposta: E.",
+        "pred": "E.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_172",
+        "response": "Para calcular a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes, é necessário calcular o número total de configurações possíveis sem considerar a cor. Temos 7 modelos de carros e 2 tipos de motores, o que dá um total de 14 combinações. Em relação aos opcionais, temos 4 possibilidades (nenhum, um, dois ou três opcionais), o que dá um total de 15 combinações. Portanto, sem considerar a cor, temos um total de 14 x 15 = 210 combinações. Como a montadora divulgou que oferta mais de 1 000 configurações diferentes de carro, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é 1 000 / 210 = 4,76. Como não é possível ter uma quantidade fracionada de cores, a montadora deverá disponibilizar no mínimo 5 cores. No entanto, essa alternativa não está disponível. Portanto, todas as alternativas estão incorretas. Resposta: Nenhuma das alternativas.",
+        "pred": "C.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_174",
+        "response": "Para encontrar o dígito verificador N5, precisamos seguir o procedimento descrito no enunciado. Primeiro, multiplicamos os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, e somamos os resultados para obter S. Nesse caso, temos S = 5*0 + 4*1 + 3*0 + 2*0 = 4. Em seguida, encontramos o resto da divisão de S por 11, que é R = 4. Finalmente, calculamos N5 como a diferença 11 - R, que é 7. Portanto, o dígito verificador N5 dessa agência bancária é 7, o que torna a alternativa C a CORRETA. As demais alternativas estão incorretas porque não seguem o procedimento descrito para calcular o dígito verificador. Resposta: C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_175",
+        "response": "Para resolver essa questão, é necessário converter as medidas da planta para a escala real. A escala é de 1:50, ou seja, cada centímetro na planta corresponde a 50 centímetros na realidade. Portanto, a altura do espaço destinado ao refrigerador é de 3,8 cm x 50 = 190 cm ou 1,90 m e a largura é de 1,6 cm x 50 = 80 cm ou 0,80 m. No entanto, é necessário descontar os 10 cm de distância recomendados pelo fabricante em cada lado e na parte superior do refrigerador. Portanto, a altura máxima do refrigerador é de 1,90 m - 0,10 m = 1,80 m e a largura máxima é de 0,80 m - 0,20 m = 0,60 m. Portanto, a alternativa correta é A. Resposta: A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_176",
+        "response": "Na primeira fase, cada equipe joga 3 partidas, totalizando 6 partidas por grupo. Como são 8 grupos, temos 48 partidas. Como cada grupo pode jogar uma partida por dia, temos 6 dias para a primeira fase. Nas oitavas de final, temos 8 partidas, que podem ser jogadas em 2 dias (4 partidas por dia). Nas quartas de final, temos 4 partidas, que podem ser jogadas em 1 dia. Nas semifinais, temos 2 partidas, que podem ser jogadas em 1 dia. E na final, temos 1 partida, que pode ser jogada em 1 dia. Portanto, o número mínimo de dias para a realização do torneio é 6 (primeira fase) + 3 (descanso) + 2 (oitavas de final) + 3 (descanso) + 1 (quartas de final) + 3 (descanso) + 1 (semifinais) + 3 (descanso) + 1 (final) = 20 dias. No entanto, essa alternativa não está disponível. A alternativa mais próxima é 22 dias, que seria o caso se houvesse um dia de descanso adicional entre as quartas de final e as semifinais, e entre as semifinais e a final. Portanto, a alternativa correta é A. Resposta: A.",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_179",
+        "response": "A probabilidade de o time que venceu a primeira partida ser o campeão é a mesma de o time que perdeu a primeira partida ser o campeão, pois a probabilidade de vitória em cada partida é sempre 1/2. Portanto, a probabilidade de o time que venceu a primeira partida ser o campeão é 1/2. Convertendo essa fração para uma base de 64, temos 32/64. No entanto, essa é a probabilidade de o time que venceu a primeira partida ser o campeão se todas as partidas subsequentes fossem jogadas. No entanto, a série termina assim que um time vence quatro partidas. Portanto, a probabilidade de o time que venceu a primeira partida ser o campeão é maior do que 32/64. A alternativa que está mais próxima de 32/64 e é maior do que 32/64 é 35/64. Portanto, a alternativa A. é a CORRETA. As alternativas B., C., D. e E. estão incorretas porque são maiores do que a probabilidade correta. Resposta: A.",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "mathematics"
+    }
+]
