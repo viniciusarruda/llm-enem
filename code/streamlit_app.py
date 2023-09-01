@@ -1,7 +1,13 @@
 import os
 import traceback
 import streamlit as st
-from chat_completion_wrapper import OpenAIChatCompletionWrapper, LoadingModelError, DisabledEndpointError, AuthenticationError
+from chat_completion_wrapper import (
+    OpenAIChatCompletionWrapper,
+    MariTalkChatCompletionWrapper,
+    LoadingModelError,
+    DisabledEndpointError,
+    AuthenticationError,
+)
 from prompt_builder import get_prompt
 from logger import logger
 from evaluator import get_dataset, get_formatted_answer
@@ -51,12 +57,15 @@ def get_input_source_option():
     return question
 
 
-def set_llm(openai_api_key):
+def set_llm():
     if st.session_state["model"] in ["gpt-3.5-turbo", "gpt-4"]:
         try:
+            if len(st.session_state["openai_api_key"]) == 0:
+                return
             st.session_state["llm"] = OpenAIChatCompletionWrapper(
-                model=st.session_state["model"], openai_api_key=openai_api_key
+                model=st.session_state["model"], openai_api_key=st.session_state["openai_api_key"]
             )
+            # print("set_llm(): ", st.session_state["model"])
         except AuthenticationError as e:
             st.error(
                 "Incorrect API key provided. You can find your API key at https://platform.openai.com/account/api-keys.",
@@ -64,6 +73,12 @@ def set_llm(openai_api_key):
             )
             logger(observation="ERROR", content=traceback.format_exc())
             logger.save()
+        else:
+            st.session_state["model_changed"] = False
+    elif st.session_state["model"] == "MariTalk":
+        st.session_state["llm"] = MariTalkChatCompletionWrapper()
+        # print("set_llm(): ", st.session_state["model"])
+        st.session_state["model_changed"] = False
     else:
         raise ValueError(f"Model {st.session_state['model']} is not available.")
 
@@ -94,10 +109,15 @@ def generate():
         st.json(question)
 
 
+def model_changed():
+    st.session_state["model_changed"] = True
+
+
 def main():
     if len(st.session_state) == 0:
         st.session_state["dataset"] = None
         st.session_state["llm"] = None
+        st.session_state["model_changed"] = True
 
     st.title("LLM Enem")
     st.markdown("Source code: [Github](https://github.com/viniciusarruda/llm-enem)")
@@ -107,20 +127,25 @@ def main():
     with col2:
         st.radio("Input source", ("Enem 2022", "Custom"), horizontal=True, key="input_source")
 
-        openai_api_key = st.text_input("OpenAI API KEY", type="password")
-
         st.selectbox(
             "Model",
-            ["gpt-3.5-turbo", "gpt-4"],
+            ["gpt-3.5-turbo", "gpt-4", "MariTalk"],
             index=0,
             key="model",
             help="Choose the LLM to use to answer the questions.",
-            on_change=lambda: set_llm(openai_api_key),
-            disabled=len(openai_api_key) == 0,
+            on_change=model_changed,
         )
 
-        if len(openai_api_key) > 0 and st.session_state["llm"] == None:
-            set_llm(openai_api_key)
+        if st.session_state["model"].startswith("gpt"):
+            st.text_input(
+                "OpenAI API KEY",
+                type="password",
+                key="openai_api_key",
+                on_change=model_changed,
+            )
+
+        if st.session_state["model_changed"]:
+            set_llm()
 
         st.selectbox(
             "Prompt Type",
@@ -148,7 +173,7 @@ def main():
                 key="selected_question",
             )
 
-        if st.button("Answer", disabled=len(openai_api_key) == 0):
+        if st.button("Answer", disabled=st.session_state["model_changed"]):
             try:
                 generate()
             except LoadingModelError:

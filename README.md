@@ -11,8 +11,10 @@
 
 This repository aims to run LLMs on the [Enem](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem), a Brazilian University Admission Exam.
 
-Currently, the repository aims to replicate the results from the paper [Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams
-](https://arxiv.org/abs/2303.17003) for the dataset they have [relased](https://github.com/piresramon/gpt-4-enem/tree/main/data/enem), named `ENEM 2022`.
+It employs the approach from the paper [Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams
+](https://arxiv.org/abs/2303.17003) with the dataset they have [relased](https://github.com/piresramon/gpt-4-enem/tree/main/data/enem), named `ENEM 2022`.
+
+Evaluated models: GPT-3.5, GPT-4, Falcon 7B, LLaMA2 7B, and MariTalk.
 
 The code was written aiming to have few dependencies and facilitate the use of LLMs other than OpenAI-based ones.
 
@@ -40,7 +42,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Evaluate on OpenAI LLMs
+### Evaluate OpenAI LLMs
 
 #### 1. Set the OpenAI API key:
 Visit [OpenAI](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key) to retrieve your API key and add to your environment variable.
@@ -70,12 +72,26 @@ The results will be placed in the `reports` folder (beware, this will overwrite 
 To produce the `results.html` file with a summary table as in the [results section](#results), run:
 
 ```powershell
-python evaluator.py build_results_table --models "['gpt-3.5-turbo-0613', 'gpt-4-0613']" --dataset_names "['Zero-shot', 'Few-shot', 'Few-shot with Chain-of-Thought']"
+python evaluator.py build_results_table --models "['gpt-3.5-turbo-0613', 'gpt-4-0613']" --dataset_names "['Zero-shot', 'Few-shot', 'Few-shot with Chain-of-Thought']" --output_filename "gpt_results.html"
 ```
 
-### Evaluate on LLMs hosted on HuggingFace via Inference Endpoints
+### Evaluate MariTalk
 
-#### 1. Create a HuggingFace Inference Endpoint
+[MariTalk](https://github.com/maritaca-ai/maritalk-api) is currently free. Thus, my `API key` was explicitly written in the code.
+
+#### 1. Run the evaluation script:
+
+```powershell
+python evaluator.py evaluate --models "['MariTalk']" --dataset_names "['Zero-shot', 'Few-shot', 'Few-shot with Chain-of-Thought']"
+```
+
+```powershell
+python evaluator.py build_results_table --models "['MariTalk']" --dataset_names "['Zero-shot', 'Few-shot', 'Few-shot with Chain-of-Thought']" --output_filename "maritalk_results.html"
+```
+
+### Evaluate LLMs hosted on Hugging Face via Inference Endpoints
+
+#### 1. Create a Hugging Face Inference Endpoint
 
 Select a LLM from the Hugging Face [model hub](https://huggingface.co/models?pipeline_tag=text-generation&sort=trending).
 
@@ -117,7 +133,7 @@ python evaluator.py evaluate --models "['Falcon-7B', 'LLaMA-2-7B']" --dataset_na
 ```
 
 ```powershell
-python evaluator.py build_results_table --models "['Falcon-7B', 'LLaMA-2-7B']" --dataset_names "['Zero-shot', 'Few-shot', 'Few-shot with Chain-of-Thought']"
+python evaluator.py build_results_table --models "['Falcon-7B', 'LLaMA-2-7B']" --dataset_names "['Zero-shot', 'Few-shot', 'Few-shot with Chain-of-Thought']" --output_filename "falcon_llama_results.html"
 ```
 
 ### Streamlit Demo
@@ -134,7 +150,7 @@ streamlit run streamlit_app.py
 
 ### GPT-3.5 and GPT-4 Models
 
-[Evaluation](reports/results.html) on the `ENEM 2022` dataset, with the models `gpt-3.5-turbo-0613` and `gpt-4-0613`:
+[Evaluation](reports/gpt_results.html) on the `ENEM 2022` dataset, with the models `gpt-3.5-turbo-0613` and `gpt-4-0613`:
 
 <table border="1px">
 	<tr>
@@ -194,6 +210,54 @@ streamlit run streamlit_app.py
 		<td>93/118 (78.81%)</td>
 		<td>97/118 (82.20%)</td>
 		<td>102/118 (86.44%)</td>
+	</tr>
+</table>
+
+Detailed results can be seen in the [`reports`](reports/) folder.
+
+### MariTalk Model
+
+[Evaluation](reports/maritalk_results.html) on the `ENEM 2022` dataset, with the model `MariTalk`:
+
+<table border="1px">
+	<tr>
+		<th rowspan=2>Area</th>
+		<th colspan=3>MariTalk</th>
+	</tr>
+	<tr>
+		<th>zero-shot</th>
+		<th>three-shot</th>
+		<th>three-shot<br>with CoT</th>
+	</tr>
+	<tr>
+		<td>Languages and Codes</td>
+		<td>15/33 (45.45%)</td>
+		<td>20/33 (60.61%)</td>
+		<td>18/33 (54.55%)</td>
+	</tr>
+	<tr>
+		<td>Human Sciences</td>
+		<td>22/37 (59.46%)</td>
+		<td>22/37 (59.46%)</td>
+		<td>31/37 (83.78%)</td>
+	</tr>
+	<tr>
+		<td>Natural Sciences</td>
+		<td>15/26 (57.69%)</td>
+		<td>10/26 (38.46%)</td>
+		<td>15/26 (57.69%)</td>
+	</tr>
+	<tr>
+		<td>Mathematics</td>
+		<td>6/22 (27.27%)</td>
+		<td>1/22 (4.55%)</td>
+		<td>5/22 (22.73%)</td>
+	</tr>
+	<tr>
+		<td>Total</td>
+		<td>58/118 (49.15%)</td>
+		<td>53/118 (44.92%)</td>
+		<td>69/118 (58.47%)</td>
 	</tr>
 </table>
 

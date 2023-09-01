@@ -6,6 +6,7 @@ from chat_completion_wrapper import (
     OpenAIChatCompletionWrapper,
     HFLlama2ChatCompletionWrapper,
     HFFalconChatCompletionWrapper,
+    MariTalkChatCompletionWrapper,
 )
 from tqdm import tqdm
 from pathlib import Path
@@ -50,6 +51,8 @@ def get_llm(model):
             name=os.environ[f"huggingface_{model.replace('-', '')}_name"],
             log=False,
         )
+    elif model == "MariTalk":
+        llm = MariTalkChatCompletionWrapper(log=False)
     else:
         raise ValueError(f"Model {model} is not available.")
 
@@ -134,6 +137,7 @@ def evaluate(
 
 
 def build_results_table(
+    output_filename: str = None,
     models: list[str] = ["gpt-3.5-turbo-0613", "gpt-4-0613"],
     dataset_names: list[str] = ["Zero-shot", "Few-shot", "Few-shot with Chain-of-Thought"],
 ):
@@ -193,7 +197,9 @@ def build_results_table(
 
     html_table += "</table>"
 
-    with open(os.path.join("..", "reports", "results.html"), "w", encoding="utf-8") as f:
+    if output_filename is None:
+        output_filename = "_".join(models + [DATASET_TO_FILENAME[dataset_name] for dataset_name in dataset_names]) + ".html"
+    with open(os.path.join("..", "reports", output_filename), "w", encoding="utf-8") as f:
         f.write(html_table)
 
 
@@ -204,7 +210,7 @@ if __name__ == "__main__":
             "build_results_table": build_results_table,
         }
     )
-    # models = ["gpt-3.5-turbo-0613", "gpt-4-0613", "Falcon-7B", "LLaMA-2-7B"]
+    # models = ["gpt-3.5-turbo-0613", "gpt-4-0613", "Falcon-7B", "LLaMA-2-7B", "MariTalk"]
     # dataset_names = ["Zero-shot", "Few-shot", "Few-shot with Chain-of-Thought"]
     # evaluate(models, dataset_names)
     # build_results_table(models, dataset_names)

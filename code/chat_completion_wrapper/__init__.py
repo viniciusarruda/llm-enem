@@ -1,3 +1,4 @@
 from .base_chat_completion_wrapper import ChatMessage, LoadingModelError, DisabledEndpointError, AuthenticationError
 from .openai_chat_completion_wrapper import OpenAIChatCompletionWrapper
 from .hf_chat_completion_wrapper import HFLlama2ChatCompletionWrapper, HFFalconChatCompletionWrapper
+from .maritalk_chat_completion_wrapper import MariTalkChatCompletionWrapper

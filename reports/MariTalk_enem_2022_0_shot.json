@@ -1,0 +1,828 @@
+[
+    {
+        "id": "ENEM_2022_6",
+        "response": "A resposta correta é a letra C: desconstrução da noção do skate como modalidade masculina.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_7",
+        "response": "A resposta correta é a letra C: reflexo da precariedade da organização social no país.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_8",
+        "response": "A alternativa correta é B. Com base na pesquisa, é necessário combater o sedentarismo presente em parcela significativa da população no território nacional para que a prática regular de exercícios tenha influência significativa na saúde dos brasileiros. As outras alternativas não estão necessariamente incorretas, mas não são a resposta correta para a pergunta feita.",
+        "pred": "B.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_9",
+        "response": "A resposta correta é a letra D: criatividade para adaptações a novos espaços.\n\nO mountainboard é um esporte que surgiu a partir da necessidade de adaptar as manobras de snowboard, surf e skate para diferentes tipos de terreno, como grama, terra, pedras, asfalto e areia. Isso exigiu uma grande dose de criatividade por parte dos praticantes, que precisaram desenvolver equipamentos e técnicas específicas para esses ambientes. Portanto, a história da prática do mountainboard representa uma das principais marcas das atividades de aventura, caracterizada pela criatividade para adaptações a novos espaços.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_10",
+        "response": "A alternativa correta é C. brevidade no tratamento da temática.\n\nNo texto, Clarice Lispector reflete sobre as características do gênero crônica e questiona se ele é um relato, uma conversa ou um resumo de um estado de espírito. Ela também menciona que, ao escrever para um jornal, seu modo de escrever se transforma e se torna mais leve, apenas para agradar o leitor. Além disso, ela menciona que, ao escrever romances e contos, busca uma comunicação profunda com o leitor, o que não é necessário na escrita de crônicas. Portanto, a característica que a autora questiona é a brevidade no tratamento da temática, que é uma característica típica do gênero crônica.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_11",
+        "response": "A resposta correta é a letra C: conscientizar a população sobre grave problema de saúde pública.\n\nEssa notícia tem como objetivo principal conscientizar a população sobre a gravidade da leishmaniose, uma doença que afeta tanto seres humanos quanto cachorros e é transmitida pela picada do mosquito-palha. A notícia também informa sobre um projeto de lei que está sendo apreciado pela Câmara Municipal de Belo Horizonte, que propõe a realização de campanhas públicas de vacinação gratuita de cães contra a leishmaniose. Portanto, a notícia tem como função informar e conscientizar a população sobre um problema de saúde pública e apresentar uma possível solução para combatê-lo.",
+        "pred": "B.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_12",
+        "response": "A resposta correta é a letra A: narrar, por meio de imagem e poesia, cenas da vida das irmãs Petra e Elena.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_13",
+        "response": "A resposta correta é a alternativa A: tematiza o fazer poético, como em \"Os poetas classificam as palavras pela alma\". O texto apresenta uma reflexão sobre a natureza das palavras e sua relação com a alma, o que é típico do fazer poético. As outras alternativas não estão corretas porque o texto não se restringe a abordar apenas o tema do fazer poético, não utiliza metáforas, não se concentra em valorizar a gramática da língua e não estabelece comparações entre as palavras e as pessoas. Além disso, o texto não apresenta informações pertinentes sobre o conceito de \"palavra\".",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_14",
+        "response": "A resposta correta é a alternativa A: justaposição de sequências verbais e nominais.\n\nO texto apresenta uma série de imagens e ideias justapostas, sem uma estrutura clara ou uma progressão lógica. Em vez disso, as ideias são apresentadas de forma fragmentada e desconexa, com sequências de palavras e frases que não se encaixam de forma clara em uma narrativa ou argumentação coerente. Essa justaposição de sequências verbais e nominais é o recurso que caracteriza a organização estrutural do texto.",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_15",
+        "response": "A resposta correta é a letra C: \"A cidade não mora mais em mim\". Essa é a única opção que expressa uma emoção ou sentimento do eu lírico em relação à cidade. As outras opções apresentam descrições de lugares, plantas e pessoas sem transmitir uma emoção específica.",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_17",
+        "response": "A alternativa correta é a letra B. O movimento de recuperação da língua patxôhã conjuga o ato de resistência étnica à preservação da memória cultural. O professor Txaywa Pataxó buscou entender os fatores que quase provocaram a extinção da língua patxôhã e mergulhou na história do Brasil, descobrindo fatos violentos que dispersaram os pataxós e os forçaram a abandonar a própria língua para escapar da perseguição. A recuperação da língua patxôhã assume um caráter identitário peculiar na medida em que se associa à preservação da memória cultural e à resistência étnica.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_19",
+        "response": "A resposta correta é a alternativa A: contribuir para a formação cidadã dos jogadores. O texto descreve o jogo \"Who's She?\" como uma forma de apresentar mulheres notáveis da história e da atualidade, com o objetivo de estimular a curiosidade e o conhecimento dos jogadores sobre as realizações e conquistas dessas mulheres. Dessa forma, o jogo busca contribuir para a formação cidadã dos jogadores, ensinando-os sobre a importância das mulheres na história e na sociedade.",
+        "pred": "D.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_21",
+        "response": "A resposta correta é a letra B. A construção de uma atmosfera de urgência é evidente no texto, com o uso de palavras como \"pressa\" e \"urgência\".",
+        "pred": "B.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_22",
+        "response": "A resposta correta é a letra E: adequação da linguagem à situação de comunicação.\n\nO autor do artigo de opinião destaca a importância de se adequar a linguagem à situação de comunicação, ou seja, usar um português versão 2.0 somente quando necessário e apropriado, como em documentos jurídicos. Ele argumenta que falar difícil não é sinônimo de inteligência e que é importante valorizar a simplicidade e a coerência na comunicação.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_23",
+        "response": "A resposta correta é a letra D: modo de distribuição de obras.\n\nDe acordo com o texto, as inovações tecnológicas têm ampliado as possibilidades no campo da criação artística, permitindo que os artistas explorem questões como aleatoriedade, acaso, não linearidade e hipermídia. No entanto, essas inovações também têm trazido dilemas em relação à autoria, direitos autorais e reprodução não autorizada. Portanto, a expansão das possibilidades no campo das manifestações artísticas promovida pela internet pode pôr em risco o modo de distribuição de obras.",
+        "pred": "D.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_24",
+        "response": "A resposta correta é a alternativa A: \"dificuldade na apropriação da nova linguagem\". De acordo com o texto, cada nova técnica exige uma longa iniciação numa nova linguagem, ainda mais longa na medida em que nosso espírito é formatado pela utilização das linguagens que precederam o nascimento da recém-chegada. Isso significa que a apropriação da nova linguagem é o que mais impacta os usuários de uma nova técnica, e não a suplantação imediata dos conhecimentos prévios, como afirmado na alternativa D.",
+        "pred": "D.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_25",
+        "response": "A resposta correta é a alternativa B. O uso da norma-padrão defendido por um dos personagens torna-se inadequado em razão do contexto de comunicação em que a conversa se dá.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_26",
+        "response": "A alternativa correta é A. representações estereotipadas e superficiais de felicidade.\n\nA positividade tóxica mencionada no texto é um fenômeno social recente que se constitui com base em representações estereotipadas e superficiais de felicidade. Essas representações são espalhadas pelos chamados digital influencers nas redes sociais e mostram um estilo de vida sonhado por muitos, como o corpo esbelto, viagens incríveis, casas deslumbrantes, carros novos e alegria em tempo integral. No entanto, essa busca incessante por essa felicidade gera efeitos colaterais em quem consome diariamente a \"vida perfeita\" de outros.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_29",
+        "response": "A resposta correta é a alternativa A: \"citação a referências literárias tradicionais\". O efeito expressivo decorre da citação a referências literárias tradicionais, como a menção ao livro de Charles Dickens.",
+        "pred": "D.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_31",
+        "response": "A resposta correta é a letra E: integração de referenciais culturais de diferentes origens, criando uma nova combinação estética.\n\nChico Science foi um dos principais expoentes do movimento manguebeat, que surgiu em Recife na década de 1990. O manguebeat foi um movimento cultural que buscou resgatar o prestígio da cultura pernambucana, misturando elementos musicais locais, como o maracatu, com influências externas, como o hip-hop e o rock. Chico Science e outros músicos da cena manguebeat buscaram criar uma nova combinação estética, integrando referenciais culturais de diferentes origens e criando um novo estilo musical que se tornou símbolo da cidade de Recife.",
+        "pred": "C.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_32",
+        "response": "A resposta correta é B. apontar a hipocrisia do discurso conservador na defesa da escravidão.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_33",
+        "response": "A resposta correta é a letra E: têm como objetivo a disseminação do conhecimento. Ambos os textos apresentam projetos que visam tornar o acesso à informação mais inclusivo e acessível, especialmente para pessoas com deficiências. O projeto Mural Eletrônico, descrito no Texto I, foi desenvolvido no INT com o objetivo de promover a inclusão nas escolas, enquanto o projeto Surdonews, descrito no Texto II, foi criado por uma pesquisadora surda com o objetivo de disseminar notícias em Libras para a comunidade surda. Ambos os projetos têm como objetivo principal a disseminação do conhecimento e a inclusão de pessoas com deficiências no acesso à informação.",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_34",
+        "response": "A resposta correta é a alternativa A: \"A caracterização da personagem como mestiça.\"\n\nNo trecho apresentado, o narrador descreve os olhos de Maria Santa como \"inconfundível, impressionante, iluminava com sua luz misteriosa as sombrias arcadas superciliares, que pareciam queimadas por ela\". Essa descrição estabelece uma correlação entre a cor dos olhos de Maria Santa e sua origem mestiça, que é \"cruzada e decantada através das misérias e dos orgulhos de homens de aventura, contadores de histórias fantásticas, e de mulheres caladas e sofredoras, que acompanhavam os maridos e amantes através das matas intermináveis\".\n\nPortanto, a alternativa A é a correta, pois o narrador estabelece uma correlação entre a cor dos olhos de Maria Santa e sua origem mestiça.",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_35",
+        "response": "A resposta correta é a letra D: o misto de singeleza e astúcia dos gestos da personagem. A ironia na cena consiste no contraste entre a singeleza da personagem Bárbara, com seus cabelos apanhados e chinelos nos pés, e sua astúcia ao interrogar as clientes e confirmar a veracidade dos retratos dos filhos.",
+        "pred": "B.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_36",
+        "response": "A alternativa correta é a A. capitalista, marcado pela distribuição funcional do trabalho.\n\nNo trecho do romance naturalista, o narrador descreve como as personagens femininas são divididas em funções de trabalho de acordo com suas habilidades e aptidões. Isso revela uma visão capitalista da sociedade, na qual as pessoas são vistas como recursos a serem explorados e distribuídos de forma eficiente. Essa abordagem é marcada pela ênfase na divisão do trabalho e na eficiência produtiva, em detrimento de outras considerações, como a afetividade ou a igualdade entre pessoas.",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_37",
+        "response": "A resposta correta é a alternativa A. O trecho apresenta o desenho cru da realidade dramática dos retirantes, o que é uma característica do \"Romance de 30\" da literatura brasileira.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_38",
+        "response": "A resposta correta é a letra D: afetividade demonstrada ao noticiar a morte do cantador.\n\nNesta passagem, o narrador relata a morte do cantador, que é um momento de grande emoção e tristeza para ele. No entanto, ele tenta esconder suas emoções e finge indiferença, usando a expressão \"Pega, velho!\" como uma forma de disfarçar sua dor. A afetividade é demonstrada através da descrição de suas lágrimas, que ele tenta esconder, e da forma como ele salta em seu cavalo e parte rapidamente, provavelmente para não deixar que os outros vejam sua tristeza.",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_39",
+        "response": "A alternativa correta é B. O personagem expressa atração e asco perante atitudes libertinas no carnaval.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_40",
+        "response": "A resposta correta é a alternativa A: \"lição de vida comunicada pelo tenente\".",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_41",
+        "response": "A resposta correta é a letra B: questionam a crença de que o acesso à informação é igualitário e democrático.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_42",
+        "response": "A resposta correta é a letra D: processo de incorporação de preconceitos que são recorrentes na história de uma sociedade.\n\nO Texto I afirma que a língua não é uma nomenclatura que se aplica a uma realidade pré-categorizada, mas sim que ela é que classifica a realidade. Isso significa que as escolhas lexicais são resultado de uma construção social e histórica, que reflete as experiências e valores de um determinado grupo de falantes.\n\nO Texto II ilustra essa ideia ao exemplificar como expressões coloquiais podem conter discriminação contra os negros. Isso mostra como preconceitos e discriminações são incorporados na língua e refletem a história de uma sociedade. Portanto, a resposta correta é a letra D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_43",
+        "response": "A alternativa correta é a E: assegurar a fiscalização dos gastos públicos. Essa imagem, compartilhada pelo Senado Federal no Facebook em 2017, tem como objetivo chamar a atenção para a importância da transparência na administração pública e incentivar a participação cidadã na fiscalização dos gastos públicos. A proposta apresentada na imagem, de incluir na própria peça publicitária o custo do anúncio, é uma medida que visa assegurar a transparência e permitir que os cidadãos tenham acesso à informação sobre quanto está sendo gasto com publicidade pelo governo. Dessa forma, é possível que os cidadãos sejam capazes de fiscalizar e questionar os gastos públicos, contribuindo para a promoção da democracia e do combate à corrupção.",
+        "pred": "D.",
+        "gold": "B.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_45",
+        "response": "A alternativa correta é A. enumeração de objetos e fatos.\n\nMachado de Assis utiliza a enumeração de objetos e fatos para considerar um capítulo de Memórias Póstumas de Brás Cubas como inventário. Isso significa que ele lista uma série de elementos relacionados a um evento triste e vulgar que não deseja escrever. Esses elementos incluem soluços, lágrimas, casa armada, veludo preto nos portais, um homem que veio vestir o cadáver, outro que tomou a medida do caixão, caixão, essa, tocheiros, convites, convidados que entravam, lentamente, a passo surdo, e apertavam a mão à família, alguns tristes, todos sérios e calados, padre e sacristão, rezas, aspersões d'água benta, o fechar do caixão, a prego e martelo, seis pessoas que o tomam da essa, e o levantam, e o descem a custo pela escada, não obstante os gritos, soluços e novas lágrimas da família, e vão até o coche fúnebre, e o colocam em cima e traspassam e apertam as correias, o rodar do coche, o rodar dos carros, um a um.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "languages"
+    },
+    {
+        "id": "ENEM_2022_46",
+        "response": "A resposta correta é a alternativa A: \"exalta a investigação filosófica\".\n\nO texto apresenta a ideia de Empédocles sobre os quatro elementos corporais (fogo, ar, água e terra) e como eles se movem através do Amor e do Ódio. Essa é uma reflexão típica do pensamento pré-socrático, que buscava entender a origem (arché) de todas as coisas. A alternativa A está correta porque o texto destaca a importância da investigação filosófica para Empédocles e os pré-socráticos em geral. As outras alternativas estão incorretas porque não refletem o conteúdo do texto.",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_47",
+        "response": "A alternativa correta é B. Êxodo da população do campo.\n\nA macrocefalia urbana é um processo de concentração das atividades econômicas em algumas metrópoles que propicia o desencadeamento de processos descompassados, como o êxodo da população do campo em direção às cidades. Esse processo é estimulado pelo fator geográfico da concentração de oportunidades de emprego e renda nas grandes cidades, o que atrai a população rural em busca de melhores condições de vida. Essa massiva concentração de pessoas nas metrópoles pode levar a problemas como o déficit no número de empregos, a ocupação desordenada de determinadas regiões da cidade e a estigmatização de estratos sociais, comprometendo substancialmente a segurança pública urbana.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_48",
+        "response": "A resposta correta é a letra E: moderação das paixões.\n\nNo excerto apresentado, Sêneca destaca que a filosofia tem o poder de moderar as paixões e emoções humanas, permitindo que o indivíduo seja forte e contente diante da morte, sem desfalecer. Isso significa que a filosofia pode ajudar a controlar os impulsos e sentimentos intensos que podem levar a comportamentos destrutivos ou prejudiciais. Portanto, a alternativa correta é a letra E.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_49",
+        "response": "A resposta correta é a letra C: heranças culturais constituídas em saberes próprios.\n\nO texto menciona que as sociedades pré-colombianas, como os Incas, Astecas e Maias, tinham uma diversidade de saberes próprios, como a medição do tempo e do espaço com precisão, a descoberta do valor do número zero e a realização de cirurgias com placas de ouro e prata. Esses saberes foram deixados como legado para as sociedades atuais.",
+        "pred": "E.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_50",
+        "response": "A resposta correta é a alternativa A: \"manutenção dos modos de vida\".\n\nO texto descreve a tradição das paneleiras de Goiabeiras, no Espírito Santo, que fabricam panelas de barro utilizando matérias-primas provenientes do meio natural, como argila, madeira e tinta. Essa prática é passada de mãe para filha e acredita-se que tenha cerca de 400 anos. Portanto, a característica dessa prática tradicional é a vinculação entre os recursos do mundo natural e a manutenção dos modos de vida.",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_52",
+        "response": "B. apátridas.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_53",
+        "response": "A resposta correta é C. Considerando o olhar como experiência de conhecimento.\n\nAmbos os textos destacam a importância da percepção e da sensibilidade no processo de conhecimento. O Texto I, de Merleau-Ponty, afirma que a filosofia deve \"reaprender a ver o mundo\" e restituir à pintura e às artes em geral seu lugar verdadeiro, o que sugere que a experiência visual é uma forma de conhecer o mundo. O Texto II, de Deleuze, afirma que os grandes autores de cinema \"pensam com imagens, em vez de conceitos\", o que também destaca a importância da percepção e da sensibilidade no processo de conhecimento. Portanto, a alternativa C é a correta, pois ambos os textos consideram o olhar como uma experiência de conhecimento.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_54",
+        "response": "A resposta correta é a letra D: produzir padrões de conduta.\n\nO texto I descreve uma ordem do Santo Ofício da Inquisição, que estabelece regras para a circulação de pessoas e veículos durante uma procissão do auto de fé, que é uma cerimônia religiosa em que os réus são expostos publicamente e condenados pela Igreja. O texto II afirma que o auto da fé é um rito com momentos fortes e que os lugares, posturas, gestos e palavras são fixados previamente em toda a sua complexidade, o que significa que a Igreja tem a capacidade de produzir padrões de conduta.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_56",
+        "response": "A alternativa correta é a A. habilidades artísticas e culturais dos sujeitos.\n\nO texto descreve um objeto de museu, um tamborete, que tem uma história ligada às habilidades artísticas e culturais dos sujeitos que o criaram, venderam e usaram. O autor sugere que a história do objeto vai além da sua função como bem material vinculado ao patrimônio imaterial, e está também ligada às práticas sociais e subjetividades dos indivíduos envolvidos em sua criação e uso. Portanto, a alternativa A está correta.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_57",
+        "response": "A alternativa correta é A. Os epicuristas, envolvidos com o ideal de vida feliz.\n\nDe acordo com o texto, os vínculos entre os fenômenos foram fortalecidos pelo surgimento de uma categoria de pensadores, os epicuristas, que estavam envolvidos com o ideal de vida feliz. Esses pensadores acreditavam que a felicidade era o objetivo final da vida e buscavam alcançá-la por meio do prazer moderado e da eliminação da dor e do medo. Eles acreditavam que a filosofia poderia ajudar a alcançar esse objetivo, fornecendo uma compreensão racional do mundo e do lugar do indivíduo nele.",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_58",
+        "response": "A alternativa correta é D. cerceamento da liberdade de expressão.\n\nO Departamento de Imprensa e Propaganda (DIP) foi criado pelo governo brasileiro em 1937, durante o Estado Novo, com o objetivo de controlar e censurar a imprensa e a produção cultural no país. O DIP tinha como finalidade coordenar e incentivar as relações da imprensa com os poderes públicos no sentido de maior aproximação da mesma com os fatos que se ligam aos interesses nacionais, o que permitia ao governo cercear a liberdade de expressão e controlar a informação que era divulgada aos cidadãos.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_60",
+        "response": "A resposta correta é a letra E. O povo Kambeba tem o rio como um patrimônio cultural e afetivo, conforme descrito na narrativa e cosmologia indígena de que eles são o povo das águas. O rio tem fundamental importância para o povo Kambeba e é considerado uma sabedoria milenar.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_61",
+        "response": "A resposta correta é D. trabalhadores na formação de novos espaços.\n\nO texto descreve a construção de um açude, que é um empreendimento que tem como objetivo a captação e armazenamento de água. O texto destaca o esforço dos trabalhadores, que são retratados como formigas, organizados e pacientes, na construção do açude. Eles são descritos como homens lavados em suor, que não param de trabalhar, em longas filas pacientes, acompanhando centenas de burricos que sobem e descem. O texto também menciona que as famílias dos trabalhadores estão alojadas em pequenas casas de taipa e telha, o que sugere a formação de uma nova cidade. Portanto, a alternativa correta é a D, trabalhadores na formação de novos espaços.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_62",
+        "response": "A alternativa correta é a A. econômicos das elites.\n\nDe acordo com o texto, a importância da medicina se justifica no âmbito dos objetivos econômicos das elites, que buscavam implementar uma moderna gestão da mão de obra escravista em convergência com o Iluminismo. O saber médico era encarado como um instrumento fundamental ao desenvolvimento colonial, dada a percepção do impacto que as doenças tropicais causavam na população branca e nos povos escravizados.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_64",
+        "response": "A resposta correta é a alternativa A: Supressão de eleições de representantes políticos.\n\nO princípio básico do Estado de direito é o da eliminação do arbítrio no exercício dos poderes públicos, com a consequente garantia de direitos dos indivíduos perante esses poderes. Isso significa que o Estado deve agir de acordo com a lei e que nenhum indivíduo está acima da lei. Portanto, a supressão de eleições de representantes políticos viola esse princípio básico, pois significa que o poder público está agindo fora dos limites estabelecidos pela lei e negando aos cidadãos o direito de escolher seus representantes políticos.",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_65",
+        "response": "A resposta correta é D. Movimento pendular.\n\nA pesquisa do IBGE retrata o movimento pendular, que é o deslocamento diário de pessoas de suas residências para seus locais de trabalho e vice-versa. No caso descrito no texto, os trabalhadores enfrentam uma longa jornada diária, com vários meios de transporte, para chegar ao trabalho. Essa dinâmica é comum nas grandes cidades brasileiras, onde as pessoas moram em bairros mais distantes do centro e precisam se deslocar diariamente para trabalhar. O movimento pendular é um fenômeno típico das regiões metropolitanas e é influenciado por fatores como a urbanização, a industrialização e a migração.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_66",
+        "response": "A alternativa correta é B. afirmar uma identidade coletiva.\n\nDe acordo com o texto, a manifestação do Primeiro de Maio de 1890 na França foi resultado de um ato político deliberado, com o objetivo de construir uma classe operária e dar-lhe uma unidade política e cultural através da pedagogia da festa. Isso significa que a data foi fixada com o objetivo de afirmar uma identidade coletiva, ou seja, de unir os trabalhadores em torno de uma causa comum e de fortalecer sua consciência de classe. Portanto, a alternativa B está correta.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_67",
+        "response": "A resposta correta é a alternativa A: \"liberdade de gênero e controle social\".\n\nO Texto I apresenta a opinião do Visconde de Cayru, que defendia a ideia de que as mulheres não tinham capacidade intelectual para ir muito longe em matemática e que o currículo deveria ser o mais enxuto possível. Já o Texto II apresenta a opinião do Marquês de Santo Amaro, que argumentava a favor de facilitar às brasileiras a aquisição de conhecimentos mais aprofundados de matemática.\n\nPortanto, os discursos expressam pontos de vista divergentes respectivamente pela oposição entre liberdade de gênero e controle social. O Visconde de Cayru defendia a ideia de que as mulheres deveriam ter um currículo limitado em matemática, enquanto o Marquês de Santo Amaro argumentava a favor de dar às mulheres a oportunidade de aprender mais sobre matemática.",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_68",
+        "response": "A resposta correta é D. garantir o preceito constitucional.\n\nO texto descreve uma situação em que um movimento social ocupa um terreno abandonado e reivindica o direito de usufruir do espaço para a construção de casas, citando o artigo 6o da Constituição Federal que garante a todos os brasileiros o direito à moradia. Portanto, a estratégia usada pelo movimento social é garantir o preceito constitucional.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_70",
+        "response": "A resposta correta é a alternativa A: \"as populações com idioma comum devem estar submetidas à mesma autoridade estatal\". O texto se refere à anexação da Crimeia pela Rússia em 2014, e o argumento utilizado por Vladimir Putin foi o de que a Crimeia sempre foi uma porção inseparável da Rússia devido à presença de uma população de língua russa na região. Essa justificativa apela para o argumento de que populações com idioma comum devem estar submetidas à mesma autoridade estatal.",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_71",
+        "response": "A resposta correta é a letra E: ampliação do desemprego estrutural.\n\nA automação de postos de trabalho, como a dublagem por inteligência artificial, tem o potencial de facilitar a vida de estúdios e produtoras, mas também pode tornar mais escassas as oportunidades para dubladores e atores que trabalham com isso, o que pode levar a um aumento do desemprego estrutural.",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_72",
+        "response": "A alternativa correta é C. Funcionamento da união aduaneira.\n\nO Mercosul é uma união aduaneira, o que significa que os países membros adotam uma Tarifa Externa Comum (TEC) para produtos importados de países fora do bloco. Isso significa que os produtos importados de fora do Mercosul pagam a mesma tarifa de importação em todos os países membros.\n\nPara alterar a TEC, é necessário um consenso entre os países membros, como foi o caso do acordo mencionado na questão, em que o Brasil e a Argentina chegaram a um acordo para a redução de 10% da TEC. O Paraguai e o Uruguai também precisam ser consultados para que o acordo seja formalizado.\n\nPortanto, a necessidade de negociação diplomática para viabilizar o acordo tarifário mencionado é explicada pela característica do Mercosul de ser uma união aduaneira.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_73",
+        "response": "A resposta correta é a alternativa A: da nobreza, proveniente da obrigação de proteção ao campesinato livre.",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_74",
+        "response": "A resposta correta é a letra E: dobramentos modernos.\n\nAs forças tectônicas e meteorológicas mencionadas no enunciado atuam de forma interativa e dinâmica, favorecendo a ocupação do espaço geográfico. Essas forças naturais promovem a formação de dobramentos modernos, que são estruturas geológicas formadas pela interação entre as placas tectônicas. Esses dobramentos são importantes para a formação de relevos e podem influenciar a ocorrência de fenômenos meteorológicos, como a formação de chuvas e o surgimento de rios.",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_76",
+        "response": "A alternativa correta é a A: \"Formação de sociedade disciplinar\".\n\nO texto de Michel Foucault descreve a formação de uma sociedade disciplinar, que é um modelo de controle social baseado na vigilância, na normalização e na padronização das pessoas. Nesse modelo, as pessoas são controladas e observadas de perto, e são ensinadas a se comportar de acordo com as normas e regras sociais. A sociedade disciplinar é caracterizada por uma forte presença de instituições, como escolas, hospitais, fábricas e prisões, que têm como objetivo controlar e disciplinar os indivíduos.\n\nPortanto, a alternativa A está correta, pois a formação de uma sociedade disciplinar é o modelo de controle descrito no texto. As outras alternativas estão incorretas porque elas não refletem o conteúdo do texto. A alternativa B fala sobre a flexibilização do regramento social, o que é oposto ao que é descrito no texto. A alternativa C fala sobre o banimento da autoridade repressora, o que também não é descrito no texto. A alternativa D fala sobre a condenação da degradação humana, o que não é o foco do texto. Por fim, a alternativa E fala sobre a hierarquização da burocracia estatal, que não é mencionada no texto.",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_77",
+        "response": "A resposta correta é a letra E: Criação de lugares místicos e experiências do catolicismo popular.\n\nO Texto I fala sobre a construção de um centro religioso em Juazeiro do Padre Cícero, que se tornou um lugar sagrado após a ocorrência de milagres atribuídos à beata Maria de Araújo. Isso mostra a criação de um lugar místico.\n\nO Texto II relata o fenômeno do sangramento da hóstia na boca de Maria de Araújo, que foi considerado um milagre pelo Padre Cícero e pelos presentes na capela. Isso exemplifica uma experiência do catolicismo popular, que é marcada por práticas e crenças que não necessariamente seguem as normas da Igreja Católica.",
+        "pred": "C.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_78",
+        "response": "A resposta correta é a letra C: Comercialização garantida. O Programa de Aquisição de Alimentos (PAA) é um programa de compras públicas destinado à aquisição de produtos agropecuários produzidos por agricultores enquadrados no Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), incluindo várias categorias de pequenos produtores. O objetivo do programa é garantir a comercialização dos produtos desses agricultores, o que é uma importante conquista para eles.",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_79",
+        "response": "A resposta correta é B. social, estimulando a reciprocidade por meios digitais.\n\nO texto descreve um experimento chamado FunFit que usa acelerômetros em celulares para medir a atividade física dos participantes e incentivar a interação social entre eles. O experimento mostrou que o esquema de incentivos sociais foi de 4 a 8 vezes mais eficaz do que o método de oferecer incentivos individuais, o que sugere que a tecnologia pode desempenhar uma função social ao estimular a reciprocidade entre os membros da comunidade.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_80",
+        "response": "A resposta correta é a letra E: contestação dos princípios monárquicos.\n\nO texto menciona que os caixeiros do comércio a retalho do Rio de Janeiro foram uma das primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes públicos na mediação de suas lutas por direitos. Isso ocorreu na década de 1880, quando os caixeiros participaram da arena política e ganharam as ruas junto com outros grupos, como os republicanos e os abolicionistas. Portanto, a atuação desses trabalhadores representou um momento de contestação dos princípios monárquicos, ou seja, uma oposição à forma de governo vigente na época, que era a monarquia.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_81",
+        "response": "A resposta correta é B. utilizar sistemas de irrigação, desprezando uma drenagem adequada.\n\nA utilização de sistemas de irrigação sem uma drenagem adequada pode intensificar o problema da salinização do solo, pois a água de irrigação pode acumular sais no solo, aumentando sua concentração e tornando-o impróprio para o cultivo de plantas.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_83",
+        "response": "A alternativa correta é a E: contradição entre desenvolvimento nacional e respeito aos trabalhadores.\n\nO texto critica a forma como a construção da ferrovia Madeira-Mamoré foi realizada, destacando a falta de respeito aos trabalhadores, que eram tratados como \"cobaias sem consolo\" e não tinham tempo para serem \"decifrados\" pela sociedade. Isso revela uma contradição entre o desenvolvimento nacional, que buscava modernizar e progresso, e o respeito aos trabalhadores, que eram vistos como descartáveis e não mereciam atenção ou consideração.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_84",
+        "response": "A resposta correta é a letra E: Desterritorialização da produção.\n\nA forma de organização econômica descrita no texto é a economia informacional, global e em rede, que se baseia na capacidade de gerar, processar e aplicar eficientemente a informação baseada em conhecimentos. Essa forma de organização econômica é caracterizada pela descentralização da produção, ou seja, a produção não está mais concentrada em um único local, mas sim distribuída em diferentes lugares do mundo, graças às redes globais de interação entre agentes econômicos. Portanto, a mudança estrutural resultante é a desterritorialização da produção.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_85",
+        "response": "A resposta correta é D. promover a produção alimentar.\n\nA letra da canção \"Olhar o Brasil e não ver o sertão\" de Vander Lee destaca a importância da produção alimentar no espaço rural brasileiro e sua relação com a cidade. O trecho \"Precisa de arroz com feijão Que tenha comida na mesa Que agradeça sempre a grandeza De cada pedaço de pão Agradeça a Clemente Que leva a semente Em seu embornal Zezé e o penoso balé De pisar no cacau Maria que amanhece o dia Lá no milharal\" ressalta a importância da agricultura e da produção de alimentos no campo para a subsistência da população. Portanto, a opção D está correta.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_86",
+        "response": "A resposta correta é a alternativa A: surgimento de novas práticas culturais.\n\nO texto descreve como as mulheres começaram a se tornar um público determinante na construção da literatura e da imprensa nacional no Segundo Reinado, o que resultou no surgimento de novas práticas culturais. Isso incluiu o aumento do número de escritoras e a emergência de uma imprensa feminina, escrita e dirigida por mulheres. Essas mudanças foram possíveis graças ao crescente interesse das mulheres pela literatura e pelas novelas, que foram amplamente divulgadas em capítulos e seções classificadas como folhetim. Essas mudanças contribuíram para a formação e ampliação de um público leitor feminino ávido por novidades e narrativas modernas que retratavam os dramas e conflitos de mulheres em processo de transformação patriarcal e provinciana.",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_87",
+        "response": "A resposta correta é a alternativa A: \"afeito à devoção ao aceitar destinos sacralizados\". No experimento descrito, a relação do sertanejo com a paisagem e com a religiosidade permite que ele seja afeito à devoção, ou seja, que ele aceite destinos sacralizados. Isso significa que o sertanejo acredita que a natureza e os eventos naturais são controlados por forças divinas, e que ele deve se submeter a esses destinos.",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_88",
+        "response": "A resposta correta é a alternativa E: construção da sociabilidade.\n\nDe acordo com Hannah Arendt, a linguagem é fundamental para a construção da sociabilidade, pois é através dela que os homens podem discutir e encontrar significado nas suas ações e experiências. A linguagem permite que os homens sejam inteligíveis entre si e consigo mesmos, o que é essencial para a vida política e para a formação de comunidades.\n\nPortanto, a alternativa E está correta e as outras alternativas estão incorretas.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_89",
+        "response": "A resposta correta é a alternativa A. Racismo estrutural. O texto descreve uma situação em que um guarda civil branco espanca e amarra um homem negro em uma árvore, o que é um exemplo de racismo estrutural, ou seja, a forma como o racismo está enraizado nas instituições e na sociedade como um todo. Isso também é ilustrado pela afirmação de que há certos brancos que transformam os negros em bodes expiatórios. Portanto, a alternativa A é a resposta correta.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "human-sciences"
+    },
+    {
+        "id": "ENEM_2022_91",
+        "response": "A resposta correta é A. Autoimunidade.\n\nNo experimento descrito no texto, os pesquisadores criaram uma variação do protozoário Trypanosoma cruzi incapaz de desencadear a doença de Chagas, mas que produzia moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário.\n\nIsso significa que o mecanismo utilizado no experimento foi a autoimunidade, que é uma resposta imunológica inadequada em que o sistema imunológico passa a atacar as células saudáveis do próprio organismo, confundindo-as com células estranhas. Nesse caso, o sistema imunológico passa a atacar as células tumorais após ser induzido a atacar o protozoário Trypanosoma cruzi.",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_93",
+        "response": "A alternativa correta é A. Difração.\n\nA \"luz engarrafada\" é um fenômeno óptico que ocorre quando a luz solar atravessa um objeto transparente, como uma garrafa plástica, e é desviada em diferentes direções. Isso ocorre devido à difração da luz, que é o desvio das ondas luminosas ao passar por um obstáculo ou fenda.\n\nNo caso da \"luz engarrafada\", a luz solar passa através da garrafa plástica e é desviada em diferentes direções, iluminando o ambiente. Isso ocorre porque a garrafa atua como um prisma, desviando a luz em diferentes ângulos e criando uma iluminação difusa e suave.\n\nPortanto, a alternativa correta é A. Difração.",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_95",
+        "response": "A resposta correta é a alternativa A: predação do vírus pela bactéria.\n\nO Método Wolbachia consiste na liberação de mosquitos Aedes aegypti infectados com a bactéria Wolbachia, que é um organismo intracelular que pode reduzir a carga viral do vírus da dengue no mosquito. Isso ocorre porque a Wolbachia e o vírus da dengue competem pelos recursos comuns nas células do mosquito, e a Wolbachia tem uma vantagem competitiva, o que leva à redução da carga viral e, consequentemente, à redução dos casos de dengue na área. Portanto, a tecnologia utilizada no combate à dengue consiste na predação do vírus pela bactéria.",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_96",
+        "response": "A alternativa correta é B. Decantação.\n\nA decantação é a etapa do processo de tratamento de água em que a água bruta é colocada em um tanque de decantação, onde os sólidos suspensos presentes na água se depositam no fundo do tanque. Essa etapa é responsável pela remoção de grande parte dos sólidos suspensos presentes na água, deixando-a mais clara e própria para consumo.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_97",
+        "response": "A resposta correta é a letra E: Fosforilação oxidativa.\n\nA termogenina é uma proteína presente nas mitocôndrias que interfere na etapa final do metabolismo energético celular, a fosforilação oxidativa. Ela impede a passagem de prótons através da ATP sintetase, gerando calor e aumentando a temperatura corporal. Esse aumento de temperatura é importante para o despertar dos ursos, pois permite que eles se aquecem e acordem da hibernação.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_100",
+        "response": "A resposta correta é a letra C: enxergar bem em ambientes mal iluminados.\n\nOs bastonetes são células fotossensíveis encontradas na retina que são sensíveis à luz e ajudam na formação de imagens em ambientes com pouca luz. Eles são capazes de detectar a quantidade de luz incidente, mas não são capazes de distinguir cores. Já os cones são células fotossensíveis que são sensíveis à luz e ajudam na formação de imagens em ambientes bem iluminados. Eles são capazes de detectar a frequência da luz e distinguir cores.\n\nPortanto, se um animal tem bastonetes mais sensíveis, ele será capaz de enxergar melhor em ambientes mal iluminados, mas não necessariamente terá uma visão melhor em ambientes bem iluminados ou será capaz de distinguir cores.",
+        "pred": "E.",
+        "gold": "C.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_101",
+        "response": "A alternativa correta é A. impedir a formação de trombos, típicos em alguns casos de acidente vascular cerebral.\n\nA PEG-collineína-1 é uma molécula de interesse farmacêutico desenvolvida a partir de uma proteína encontrada no veneno da cascavel. Essa molécula tem a capacidade de modular a coagulação sanguínea, o que significa que ela pode impedir a formação de trombos, que são aglomerados de sangue que podem obstruir os vasos sanguíneos e causar problemas de saúde, como acidente vascular cerebral.\n\nPortanto, o novo medicamento apresenta potencial aplicação para impedir a formação de trombos e prevenir casos de acidente vascular cerebral. As outras alternativas apresentadas na questão não estão relacionadas à ação da PEG-collineína-1.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_102",
+        "response": "A resposta correta é a letra E. Eles manteriam suas órbitas inalteradas.\n\nIsso ocorre porque, de acordo com a Lei da Gravitação Universal de Isaac Newton, a força gravitacional entre dois corpos é diretamente proporcional à massa dos corpos e inversamente proporcional ao quadrado da distância entre eles. Como a massa do Buraco Negro é igual à massa do Sol, a força gravitacional que ele exerce sobre os planetas do Sistema Solar é a mesma que o Sol exercia antes da substituição. Portanto, as órbitas dos planetas permanecem inalteradas.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_103",
+        "response": "B. oxidante.\n\nO ozônio é uma molécula instável e altamente reativa, que possui um átomo de oxigênio a mais em relação ao gás oxigênio (O2). Ele é geralmente produzido por descarga elétrica em uma mistura de oxigênio e nitrogênio, e é altamente oxidante, o que significa que ele pode remover elétrons de outras moléculas, causando a oxidação dessas moléculas. Isso pode ser útil em aplicações como desinfecção de água, mas também pode ser prejudicial para a saúde humana e ambiental se usado de forma inadequada.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_105",
+        "response": "A alternativa correta é B. 0,33 A.\n\nQuando as três pilhas estão corretamente posicionadas, a tensão total é de 1,5 V x 3 = 4,5 V, e a corrente que passa pela lâmpada é dada por:\n\nI = P / V = (4,5 W) / (4,5 V) = 1,0 A\n\nQuando uma das pilhas é invertida, a tensão total passa a ser de 1,5 V x 2 = 3,0 V, e a corrente que passa pela lâmpada é dada por:\n\nI = P / V = (4,5 W) / (3,0 V) = 1,5 A\n\nComo a lâmpada tem uma resistência interna de 4,5 Ω, a queda de tensão na lâmpada é de:\n\nVlampada = I x Rlampada = 1,5 A x 4,5 Ω = 6,75 V\n\nA tensão restante para as duas pilhas é de:\n\nVrestante = 3,0 V - 6,75 V = -3,75 V\n\nComo as pilhas estão em série, a tensão em cada pilha é a mesma, e a corrente que passa por cada pilha é dada por:\n\nIpilha = Vrestante / Rpilha = -3,75 V / 0,5 Ω = -7,5 A\n\nComo a corrente tem que ser positiva, a resposta correta é a alternativa B, 0,33 A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_108",
+        "response": "O disjuntor adequado para a proteção dessa ducha é especificado por:\nA. 60 A\n\nPara determinar o disjuntor adequado, precisamos calcular a corrente máxima do circuito. Para isso, precisamos calcular a potência máxima que a ducha pode fornecer em cada nível de aquecimento e, em seguida, determinar a corrente máxima correspondente.\n\nA potência máxima que a ducha pode fornecer em cada nível de aquecimento pode ser calculada usando a seguinte fórmula:\n\nP = IV\n\nonde P é a potência (em watts), I é a corrente (em amperes) e V é a tensão (em volts).\n\nPara o nível de aquecimento morno, temos:\n\nP = (3 L/1000) x (220 V) = 6,6 L/1000 W\n\nPara o nível de aquecimento quente, temos:\n\nP = (5 L/1000) x (220 V) = 11 L/1000 W\n\nPara o nível de aquecimento superquente, temos:\n\nP = (10 L/1000) x (220 V) = 22 L/1000 W\n\nPara determinar a corrente máxima correspondente a cada nível de aquecimento, podemos usar a seguinte fórmula:\n\nI = P/V\n\nonde I é a corrente (em amperes) e P e V são os valores calculados anteriormente.\n\nPara o nível de aquecimento morno, temos:\n\nI = 6,6 L/1000 W / 220 V = 0,03 A\n\nPara o nível de aquecimento quente, temos:\n\nI = 11 L/1000 W / 220 V = 0,05 A\n\nPara o nível de aquecimento superquente, temos:\n\nI = 22 L/1000 W / 220 V = 0,1 A\n\nO disjuntor deve ser especificado com uma corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Portanto, o disjuntor adequado é de 60 A.",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_111",
+        "response": "A tensão de ruptura da corda escolhida é 120 N.",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_112",
+        "response": "A resposta correta é a alternativa D. efeito de barreira, que impede o contato com o agente oxidante.\n\nA nanotecnologia aplicada na proteção contra a corrosão se baseia no efeito de barreira, que impede o contato do metal com o agente oxidante. A deposição de filmes finos nanocerâmicos à base de zircônia (ZrO2) e alumina (Al2O3) sobre a superfície do objeto que se deseja proteger cria uma barreira que impede o contato do metal com o oxigênio e a água, impedindo a corrosão.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_113",
+        "response": "A resposta correta é a letra C: aumento do vacúolo com diluição do pigmento no seu interior. Quando a célula é colocada em um ambiente hipotônico, a água do vacúolo se move para fora da célula para equilibrar a concentração de solutos. Isso faz com que o vacúolo aumente de tamanho e o pigmento se dilua no interior do vacúolo.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_114",
+        "response": "A resposta correta é B. 2,1.\n\nA variação de temperatura é dada pela equação:\nΔT = Q / mc\n\nonde Q é a quantidade de calor absorvida e mc é a massa específica do material.\n\nPara a água:\nQ = 1000 J/kg \\* 1 kg/m3 = 1000 J/m3\nmc = 4,2 J/g°C\nΔT = 1000 / 4,2 = 238,1°C\n\nPara o concreto:\nQ = 2500 J/kg \\* 2 kg/m3 = 5000 J/m3\nmc = 0,8 J/g°C\nΔT = 5000 / 0,8 = 6250°C\n\nA razão entre as variações de temperatura é:\nΔTconcreto / ΔTágua = 6250 / 238,1 = 2,61\n\nPortanto, a alternativa correta é a letra B.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_116",
+        "response": "A resposta correta é a alternativa D: o sucesso reprodutivo pode ser garantido por estratégias diferentes.\n\nAs diferentes estratégias reprodutivas descritas para as espécies de anfíbios anuros exemplificam que existem diversas maneiras de garantir o sucesso reprodutivo, e que essas estratégias podem variar entre as espécies. Algumas espécies, como a Espécie 1, não precisam de cuidado parental, enquanto outras, como a Espécie 2, dependem do cuidado dos machos para o sucesso reprodutivo. Além disso, o número de gametas produzidos pelas fêmeas varia entre as espécies, o que sugere que o ambiente e a evolução também podem influenciar o comportamento reprodutivo. Portanto, não é correto afirmar que o sucesso reprodutivo é determinado apenas pelo grau de evolução ou que as fêmeas influenciam o comportamento dos machos.",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_120",
+        "response": "A resposta correta é a letra E: taxa de transporte de oxigênio pelo sangue. O doping sanguíneo com eritropoietina aumenta a produção de glóbulos vermelhos, o que aumenta a capacidade do sangue de transportar oxigênio para os músculos, melhorando o desempenho em exercícios físicos de alta intensidade e longa duração.",
+        "pred": "E.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_121",
+        "response": "A resposta correta é a alternativa E. A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de blocos.\n\nQuando um carro se choca com uma barreira de pneus, a força exercida sobre o carro é menor do que quando ele se choca com uma barreira de blocos, pois os pneus absorvem parte da energia cinética do carro. Além disso, a colisão com os pneus é mais demorada, o que também ajuda a reduzir a força exercida sobre o carro.\n\nPor outro lado, a colisão com a barreira de blocos é mais brusca e o carro para imediatamente após a colisão, o que significa que a energia cinética é dissipada mais rapidamente. Isso resulta em uma maior quantidade de energia mecânica sendo dissipada na colisão com a barreira de blocos.",
+        "pred": "E.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_124",
+        "response": "A alternativa correta é A: \"ocupam áreas de vegetação nativa e substituem parcialmente a flora original.\" A introdução de espécies exóticas, como a jaqueira, pode causar a redução da biodiversidade ao ocupar áreas de vegetação nativa e substituir parcialmente a flora original. Isso pode afetar a cadeia alimentar e os ciclos biogeoquímicos, além de reduzir a diversidade genética.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_125",
+        "response": "A alternativa correta é B. 2,25 m.\n\nPara resolver esse problema, precisamos aplicar a equação de Torricelli, que relaciona a altura de um objeto em queda livre com a velocidade do objeto e a aceleração da gravidade. A equação é:\n\nh = v^2 / (2 \\* g)\n\nonde h é a altura do objeto, v é a velocidade do objeto e g é a aceleração da gravidade.\n\nNo caso do jato de água, a altura é igual à distância horizontal medida, ou seja, 3 m. A velocidade do jato de água pode ser calculada usando a equação de Galileu, que relaciona a velocidade de um objeto em queda livre com o tempo de queda:\n\nv = g \\* t\n\nonde v é a velocidade do objeto e t é o tempo de queda. Como o tempo de queda é zero (já que o jato de água está em repouso antes de ser liberado), a velocidade do jato de água é zero.\n\nAssim, podemos substituir os valores na equação de Torricelli:\n\n3 = 0^2 / (2 \\* 10)\n\nSimplificando a equação, temos:\n\n3 = 0 / (20)\n\nDividindo ambos os lados por zero, temos:\n\n3 = 0\n\nIsso significa que a equação não está correta, pois a altura não pode ser zero.\n\nPara corrigir a equação, precisamos considerar que o jato de água não está em repouso antes de ser liberado. Em vez disso, ele está em repouso na mangueira, que está cheia de água. Quando a água é liberada, ela começa a cair em queda livre.\n\nAssim, podemos calcular a velocidade do jato de água usando a equação de Galileu:\n\nv = g \\* t\n\nonde t é o tempo que a água leva para sair da mangueira e atingir o chão. Esse tempo pode ser calculado usando a equação da velocidade média:\n\nv = d / t\n\nonde d é a distância horizontal medida, ou seja, 3 m.\n\nAssim, temos:\n\nv = 3 / t\n\nSubstituindo na equação de Galileu, temos:\n\ng \\* t = 3 / t\n\nSimplificando a equação, temos:\n\ng = 3 / t^2\n\nSubstituindo os valores conhecidos, temos:\n\n10 = 3 / t^2\n\nSimplificando a equação, temos:\n\nt = sqrt(3/10) = 0,58 s\n\nAgora podemos calcular a velocidade do jato de água usando a equação de Galileu:\n\nv = g \\* t = 10 \\* 0,58 = 5,8 m/s\n\nAgora podemos calcular a altura do jato de água usando a equação de Torricelli:\n\nh = v^2 / (2 \\* g) = (5,8 m/s)^2 / (2 \\* 10 m/s^2) = 1,63 m\n\nSubstituindo a altura na equação da distância horizontal, temos:\n\nd = sqrt(h^2 + r^2) = sqrt(1,63^2 + 1^2) = 1,63 m\n\nAssim, a alternativa correta é B. 2,25 m.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_127",
+        "response": "A resposta correta é a alternativa D: purificar ácidos nucleicos virais, facilitando a ação da enzima.\n\nAntes de realizar a PCR, é necessário purificar o material genético do vírus presente na amostra, removendo qualquer contaminante que possa interferir na reação. Isso é feito através de uma etapa de extração de ácidos nucleicos, que separa o RNA do vírus do restante das células e outras moléculas presentes na amostra.\n\nA alternativa A está incorreta porque a concentração do RNA viral não é o objetivo dessa etapa, e sim a purificação do mesmo.\n\nA alternativa B está incorreta porque a identificação de anticorpos anti-SARS-CoV-2 é feita em outro tipo de teste, não na PCR.\n\nA alternativa C está incorreta porque o objetivo não é proliferar o vírus, mas sim purificar o seu material genético.\n\nA alternativa E está incorreta porque a transcrição reversa é um processo que converte RNA em DNA, e não é utilizado na PCR para diagnóstico de covid-19.",
+        "pred": "C.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_129",
+        "response": "A alternativa correta é B. Centrifugação.\n\nA centrifugação é um processo de separação de misturas que se baseia na diferença de densidade entre os componentes da mistura. Quando a mistura é submetida a uma força centrífuga, os componentes mais densos tendem a se deslocar para o fundo do recipiente, enquanto os componentes menos densos se mantêm na parte superior.\n\nNo caso do enriquecimento de urânio, a centrifugação pode ser utilizada para separar os isótopos de urânio com base na diferença de massa entre eles. Como o urânio-235 é ligeiramente mais leve que o urânio-238, ele tende a se deslocar para a parte superior da centrífuga, enquanto o urânio-238 se concentra na parte inferior. Dessa forma, é possível obter uma mistura enriquecida em urânio-235.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_130",
+        "response": "A resposta correta é a alternativa A: \"correção do código genético para a tradução da proteína\".\n\nA terapia gênica aprovada pela Anvisa consiste em um produto elaborado por engenharia genética, composto por um vírus que foi modificado para transportar uma cópia do gene normal humano RPE65. Esse gene é responsável pela produção de uma enzima necessária para o funcionamento das células da retina.\n\nAo ser inserido no organismo, o vírus transportador do gene normal RPE65 penetra nas células da retina e libera o material genético. O gene normal é então utilizado como um modelo para a produção de RNA mensageiro (mRNA), que por sua vez é traduzido em proteína pela maquinaria celular. Dessa forma, a terapia gênica tem como objetivo corrigir o código genético para a tradução da proteína, permitindo a produção da enzima normal e o restabelecimento do funcionamento das células da retina.",
+        "pred": "D.",
+        "gold": "E.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_133",
+        "response": "A alternativa correta é D. controle das populações dos vetores.\n\nA filariose é transmitida por mosquitos e a leishmaniose é transmitida por mosquitos e flebotomíneos (insetos conhecidos como \"mosquito-palha\"). Portanto, o controle das populações desses vetores é uma medida profilática importante para prevenir a transmissão dessas doenças. Isso pode incluir o uso de inseticidas, a eliminação de criadouros de insetos, a utilização de mosquiteiros e outras medidas de proteção individual.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_134",
+        "response": "A área total dos painéis solares que compõem o Parque Solar Lapa é mais próxima de 1 000 000 m2.\n\nPara calcular a área dos painéis solares, precisamos dividir a potência total do parque pela potência de cada painel e pela irradiância solar média.\n\nPotência total do parque = 150 MW\nPotência de cada painel = 75 MW\nIradiância solar média = 1 500 W/m2\n\nÁrea dos painéis solares = Potência total do parque / (Potência de cada painel x Irradiância solar média)\nÁrea dos painéis solares = 150 MW / (75 MW x 1 500 W/m2)\nÁrea dos painéis solares = 150 MW / 112 500 000 W/m2\nÁrea dos painéis solares = 1 333,33 m2\n\nComo a área dos painéis solares é dada em hectares (ha), precisamos dividir o resultado por 10 000 para converter para hectares.\n\nÁrea dos painéis solares = 1 333,33 m2 / 10 000\nÁrea dos painéis solares = 0,13333 ha\n\nPortanto, a área total dos painéis solares que compõem o Parque Solar Lapa é de aproximadamente 0,13333 ha ou 133 333 m2.",
+        "pred": "C.",
+        "gold": "B.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_135",
+        "response": "A resposta correta é a alternativa A: \"liberação de gás tóxico e reação oxidativa forte\".\n\nO descarte indevido de ácido clorídrico concentrado com cianeto de potássio pode resultar em uma reação enérgica e na liberação de gás tóxico (cianeto de hidrogênio). Já o descarte indevido de ácido nítrico concentrado com sacarose pode resultar em uma reação oxidativa forte, já que o ácido nítrico é um forte oxidante.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "natural-sciences"
+    },
+    {
+        "id": "ENEM_2022_138",
+        "response": "A resposta correta é a letra D. 135 000 000,00.",
+        "pred": "D.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_141",
+        "response": "A cozinheira precisa preparar 6 porções da receita-base de massa para produzir 150 docinhos com diâmetro de 4 cm.\n\nPara chegar a essa resposta, é preciso calcular quantos docinhos a cozinheira consegue produzir com uma porção da receita-base de massa e, em seguida, dividir o número total de docinhos encomendados pelo número de docinhos por porção.\n\nCom uma porção da receita-base de massa, a cozinheira produz 50 docinhos com diâmetro de 2 cm. Para produzir docinhos com diâmetro de 4 cm, ela precisa produzir o dobro de docinhos, ou seja, 100 docinhos. Portanto, ela precisa preparar 6 porções da receita-base de massa para produzir 150 docinhos com diâmetro de 4 cm.\n\nResposta: C. 6",
+        "pred": "C.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_143",
+        "response": "A resposta correta é a alternativa D. O projeto IV é o que exige a menor área de revestimento, pois tem as menores dimensões internas entre todos os projetos apresentados.",
+        "pred": "D.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_145",
+        "response": "O volume de uma esfera é dado por V = (4/3)πr^3, onde r é o raio da esfera.\n\nPrimeiro, precisamos calcular o volume da peça cilíndrica: V = πr^2h, onde r é o raio da base e h é a altura. No caso, V = π(4cm)^2(50cm) = 320π cm^3.\n\nDepois, precisamos calcular o volume de uma esfera com diâmetro de 1 cm: V = (4/3)π(1cm)^3 = 4π/3 cm^3.\n\nAgora, podemos calcular a quantidade de esferas que podem ser obtidas a partir da peça cilíndrica: Q = Vpeça / Vesfera = 320π / (4π/3) = 800 esferas.\n\nPortanto, a resposta correta é a alternativa A. 800.",
+        "pred": "A.",
+        "gold": "D.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_147",
+        "response": "Para determinar qual modelo oferece a maior capacidade volumétrica, precisamos calcular o volume de cada modelo e compará-los. O volume de um cilindro é dado pela fórmula V = πr^2h, onde r é o raio da base e h é a altura.\n\n* Modelo I: Vᵇ = πAᵇh\n* Modelo II: V = π(2P)2(h/2) = 4πPAᵇh/2\n* Modelo III: V = π(2P)2(h/2) = 4πPAᵇh/2\n* Modelo IV: V = πAᵇ(2h) = 2πPAᵇh\n* Modelo V: V = π(2P)2(h/2) = 4πPAᵇh/2\n\nComo podemos ver, os modelos II, III e V têm a mesma capacidade volumétrica, e o modelo IV tem a menor capacidade volumétrica. Portanto, o modelo escolhido deve ser o modelo I, alternativa A.",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_149",
+        "response": "Para resolver esse problema, precisamos calcular o salário médio atual dos professores e, em seguida, determinar o aumento necessário para que o salário médio não ultrapasse R$ 12.240,00.\n\nSalário médio atual:\n(60 \\* 8000 + 40 \\* 12000) / (60 + 40) = 96000 / 100 = 960 reais\n\nPara que o salário médio não ultrapasse R$ 12.240,00, é necessário um aumento de:\n12240 - 960 = 2640 reais\n\nComo o aumento será de 25% para os mestres, o aumento para os doutores deve ser de:\n2640 / 0,25 = 10560 reais\n\nPortanto, o aumento para os doutores deve ser de 105,6%, que é a opção D.",
+        "pred": "D.",
+        "gold": "D.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_150",
+        "response": "Letra A. 0,125.\n\nExplicação:\nO recipiente contém 360 mL de inseticida e dura 60 dias, ou seja, a cada dia, o borrifador libera 360/60 = 6 mL de inseticida.\nSe o borrifador é acionado a cada 48 minutos, ele é acionado 60/48 = 1,2 vezes a cada dia.\nPortanto, a quantidade de inseticida liberada a cada acionamento é 6 mL / 1,2 = 0,5 mL.\nComo a questão pede a resposta em mililitros, multiplicamos por 10^-3 para obter 0,005 mL ou 0,125 mL.",
+        "pred": "A.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_151",
+        "response": "Letra A. 2,5\n\nPara resolver esse problema, precisamos calcular quantos dias do planeta Z correspondem a 1 ano terrestre. Para isso, podemos usar a seguinte relação:\n\n1 ano terrestre = 365 dias terrestres\n2 anos terrestres = 2 x 365 dias terrestres = 730 dias terrestres\n\nAgora, precisamos converter esses dias terrestres em dias do planeta Z. Para isso, dividimos os dias terrestres pelo número de dias do planeta Z:\n\n730 dias terrestres / 73 dias do planeta Z = 10 dias do planeta Z\n\nPortanto, 2 anos terrestres correspondem a 10 dias do planeta Z. Como o enunciado pede para calcular quantos dias do planeta Z correspondem a 1 ano terrestre, dividimos 10 dias do planeta Z por 2 anos terrestres:\n\n10 dias do planeta Z / 2 anos terrestres = 5 dias do planeta Z\n\nPortanto, 1 ano terrestre corresponde a 5 dias do planeta Z.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_153",
+        "response": "A alternativa correta é D. R$ 42,00 maior.\n\nPara resolver esse problema, precisamos calcular o preço normal da geladeira e o valor a ser pago com o cartão de crédito.\n\nPreço normal da geladeira = Preço promocional + (Preço normal - Preço promocional) = 1000 + (10% de 1000) = 1000 + 100 = 1100\n\nDesconto de 2% sobre o preço normal = 1100 x 2% = 22\n\nValor a ser pago com o cartão de crédito = Preço normal - Desconto = 1100 - 22 = 1078\n\nA cliente calculou o valor a ser pago como sendo o preço promocional acrescido de 8% = 1000 + (8% de 1000) = 1000 + 80 = 1080.\n\nPortanto, o valor apresentado pela loja é 42 reais maior do que o valor calculado pela cliente.",
+        "pred": "D.",
+        "gold": "A.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_158",
+        "response": "A resposta correta é a alternativa B.\n\nPara determinar a proposta que engloba o mês com a maior quantidade de infectados, precisamos calcular a derivada da função p(t) e encontrar o ponto de máximo. A derivada de p(t) é dada por:\n\ndp(t) = (-2t + 10)\n\nIgualando essa derivada a zero e resolvendo a equação, temos:\n\n-2t + 10 = 0\n2t = 10\nt = 10/2 = 5\n\nPortanto, o ponto de máximo ocorre no mês 5. Agora, precisamos verificar em qual das propostas o mês 5 está incluído. A proposta que engloba o mês 5 é a proposta II: 3 ≤ t ≤ 4. Portanto, a resposta correta é a alternativa B.",
+        "pred": "B.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_162",
+        "response": "Letra A. 16 514.\n\nPara resolver essa questão, é necessário fazer uma comparação entre o número de vagas criadas em janeiro de 2013 e o mesmo período de 2012. O enunciado informa que o número de vagas criadas em janeiro de 2013 sofreu uma queda de 75% em relação a 2012.\n\nPara encontrar o número de vagas criadas em janeiro de 2012, é necessário dividir o número de vagas criadas em janeiro de 2013 por 0,75 (ou seja, 100% - 75%).\n\n1 794 272 / 0,75 = 2 392 362\n\nPortanto, o número de vagas criadas em janeiro de 2012 foi de 2 392 362.\n\nComo a questão pede o número de vagas criadas em janeiro de 2012, a resposta correta é a alternativa A, 16 514.",
+        "pred": "A.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_163",
+        "response": "A resposta correta é a alternativa A: 9 x (6! / (6 - 2)!) = 9 x 4 x 3 x 2 = 108.\n\nExplicação:\n\n* A pessoa pretende comprar 2 apartamentos em um mesmo andar, então ela pode escolher qualquer um dos 9 andares disponíveis.\n* Como ela quer que pelo menos um dos quartos receba sol na parte da manhã, ela pode escolher entre os apartamentos de final 1, 2, 3, 4, 5, 6, 7 ou 8.\n* Para cada andar escolhido, ela tem 6 opções de apartamentos com final 1, 2, 3, 4, 5, 6 ou 7.\n* Portanto, o número total de maneiras diferentes que a pessoa pode escolher 2 apartamentos para compra nas condições desejadas é 9 x 6 = 108.",
+        "pred": "C.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_164",
+        "response": "A perda média de massa é de 1,5 kg por hora, então a pessoa perdeu 1,5 kg \\* 3 horas = 4,5 kg durante a atividade física.\nA recomendação médica é ingerir 40% a mais da massa perdida, então a pessoa deve ingerir 4,5 kg \\* 1,4 = 6,3 kg de água.\nComo a pessoa ingeriu 1,7 L de água, ela respeitou a recomendação médica.\nA quantidade de água ingerida é igual a 6,3 kg / 1 kg/L = 6,3 L.\nA pessoa ingeriu 6,3 L de água, que é igual a 6,3 kg / 1 kg/L = 6,3 kg.\nEntão a pessoa perdeu 6,3 kg de massa durante a atividade física.\nA pessoa perdeu 6,3 kg / 1,5 kg/hora = 4,2 horas durante a atividade física.\nA pessoa perdeu 4,2 horas / 3 horas = 1,4 horas a mais do que a média de perda de massa.\nA pessoa perdeu 1,4 horas a mais do que a média de perda de massa, então a atividade física dessa pessoa, nesse dia, durou 3 horas + 1,4 horas = 4,4 horas.\nA alternativa correta é a letra D.",
+        "pred": "D.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_166",
+        "response": "A resposta correta é B. Le = Lf / 4.\n\nA Lei de Stefan-Boltzmann relaciona a luminosidade de uma estrela com seu raio e temperatura, através da fórmula L = c ⋅ R^2 ⋅ T^4, onde c é uma constante.\n\nSe a estrela E tem metade do raio da estrela F e o dobro da temperatura de F, então R\\_E = R\\_F / 2 e T\\_E = 2T\\_F. Substituindo esses valores na fórmula da luminosidade, temos:\n\nL\\_E = c ⋅ (R\\_F / 2)^2 ⋅ (2T\\_F)^4 = c ⋅ R\\_F^2 ⋅ T\\_F^4 / 4 ⋅ 16 = c ⋅ R\\_F^2 ⋅ T\\_F^4 / 64\n\nL\\_F = c ⋅ R\\_F^2 ⋅ T\\_F^4\n\nA relação entre as luminosidades é L\\_E / L\\_F = (c ⋅ R\\_F^2 ⋅ T\\_F^4 / 64) / (c ⋅ R\\_F^2 ⋅ T\\_F^4) = 1 / 64 = 1 / 4. Portanto, a resposta correta é B. Le = Lf / 4.",
+        "pred": "B.",
+        "gold": "D.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_169",
+        "response": "A empresa deverá inserir 200 000 moedas de ouro no pacote especial para manter a mesma proporção existente entre as quantidades de gemas e de moedas de ouro contidas no pacote básico.\n\nNo pacote básico, há 2 000 gemas e 100 000 moedas de ouro, ou seja, a proporção é de 2:100.\n\nSe a empresa inserir 6 000 gemas a mais no pacote especial, a nova proporção será de 2:100 + 6 000/100 = 2:106.\n\nPara manter a mesma proporção, a empresa deverá inserir 106 000 moedas de ouro a mais no pacote especial, totalizando 200 000 moedas de ouro.\n\nPortanto, a alternativa correta é a letra C.",
+        "pred": "C.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_170",
+        "response": "No primeiro dia, o corredor percorre um total de 1800 metros, que é a soma das voltas em torno dos dois circuitos. No segundo dia, ele pretende percorrer 5000 metros, que é a soma das voltas em torno dos dois circuitos.\n\nNo primeiro dia, o corredor faz 3 voltas no circuito maior e 2 voltas no circuito menor, totalizando 5 voltas. No segundo dia, ele pretende percorrer 5000 metros, que é a soma das voltas em torno dos dois circuitos.\n\nA soma do número de voltas em torno dos dois circuitos, no segundo dia, será 10.",
+        "pred": "A.",
+        "gold": "E.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_171",
+        "response": "Para calcularmos o aumento na quantidade de compradores, precisamos primeiro calcular a quantidade de compradores em cada rede social na primeira divulgação:\n\n* Rede A: 3000 pessoas visualizaram o anúncio, 10% clicaram (300 pessoas) e 3% dos que clicaram compraram o produto (9 pessoas)\n* Rede B: 1000 pessoas visualizaram o anúncio, 30% clicaram (300 pessoas) e 2% dos que clicaram compraram o produto (6 pessoas)\n\nNa segunda divulgação, o investimento foi aumentado em R$ 300,00 em cada rede social, o que aumentou a quantidade de pessoas que visualizaram o anúncio e, consequentemente, a quantidade de pessoas que compraram o produto.\n\nVamos calcular a quantidade de compradores na segunda divulgação:\n\n* Rede A: 3000 pessoas visualizaram o anúncio, 10% clicaram (300 pessoas) e 3% dos que clicaram compraram o produto (9 pessoas) + 300 pessoas visualizaram o anúncio, 10% clicaram (30 pessoas) e 3% dos que clicaram compraram o produto (1 pessoa) = 10 pessoas\n* Rede B: 1000 pessoas visualizaram o anúncio, 30% clicaram (300 pessoas) e 2% dos que clicaram compraram o produto (6 pessoas) + 300 pessoas visualizaram o anúncio, 30% clicaram (90 pessoas) e 2% dos que clicaram compraram o produto (2 pessoas) = 8 pessoas\n\nNo total, 18 pessoas compraram o produto na segunda divulgação, o que representa um aumento de 100% em relação aos 9 compradores da primeira divulgação.\n\nPortanto, o aumento na quantidade de compradores foi classificado como \"bom\", já que está entre 60% e 100%. A alternativa correta é a letra C.",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_172",
+        "response": "A quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é 8.\n\nPara chegar a essa resposta, basta multiplicar o número de modelos (7) pelo número de opções de motorização (2) e somar com o número de opções de cores (3), ou seja:\n\n7 modelos x 2 motorizações x 3 cores = 42\n\nEntão, a montadora deverá oferecer pelo menos 42 opções de cores diferentes. No entanto, como as cores podem ser combinadas de forma diferente, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é 8.",
+        "pred": "E.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_174",
+        "response": "N1 = 0, N2 = 1, N3 = 0, N4 = 0\n\nS = 5 x 0 + 4 x 1 + 3 x 0 + 2 x 0 = 4\n\nR = 4 (mod 11) = 4 (resto da divisão de 4 por 11) = 4\n\nN5 = 11 - R = 11 - 4 = 7\n\nPortanto, o dígito verificador N5 dessa agência bancária é 7.\n\nResposta: C. 7",
+        "pred": "C.",
+        "gold": "C.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_175",
+        "response": "A alternativa correta é a letra A. 1,80 e 0,60.\n\nPara resolver esse problema, precisamos primeiro entender que a escala utilizada no desenho da planta é de 1:50, ou seja, cada 1 cm no desenho corresponde a 50 cm na realidade.\n\nSabemos que o espaço destinado ao refrigerador tem 3,8 cm de altura e 1,6 cm de largura. Para converter essas medidas para a realidade, basta multiplicar por 50:\n\nAltura = 3,8 cm x 50 = 1,90 m\nLargura = 1,6 cm x 50 = 0,80 m\n\nPortanto, o refrigerador tem altura máxima de 1,90 m e largura máxima de 0,80 m. A alternativa que mais se aproxima desses valores é a letra A.",
+        "pred": "A.",
+        "gold": "A.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_176",
+        "response": "Letra B. 25.\n\nExplicação:\n\n* 1a fase: 8 grupos com 4 equipes cada, totalizando 32 partidas.\n* Oitavas de final: 8 partidas (4 grupos x 2 equipes classificadas por grupo).\n* Quartas de final: 4 partidas (8 equipes classificadas nas oitavas de final).\n* Semifinais: 2 partidas (4 equipes classificadas nas quartas de final).\n* Final: 1 partida (2 equipes classificadas nas semifinais).\n\nTotal de partidas: 45 partidas.\n\nConsiderando que cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, temos:\n\n* 1a fase: 8 grupos com 4 equipes cada, totalizando 32 partidas. Como cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo, então cada equipe disputa 3 partidas. Como são 8 grupos, então são 8 grupos x 3 equipes x 3 partidas = 72 partidas na 1a fase.\n* Oitavas de final: 8 partidas. Como cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo, então cada equipe disputa 3 partidas. Como são 8 grupos, então são 8 grupos x 2 equipes x 3 partidas = 192 partidas nas oitavas de final.\n* Quartas de final: 4 partidas. Como cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo, então cada equipe disputa 3 partidas. Como são 8 grupos, então são 8 grupos x 2 equipes x 3 partidas = 192 partidas nas quartas de final.\n* Semifinais: 2 partidas. Como cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo, então cada equipe disputa 3 partidas. Como são 8 grupos, então são 8 grupos x 2 equipes x 3 partidas = 192 partidas nas semifinais.\n* Final: 1 partida. Como cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo, então cada equipe disputa 3 partidas. Como são 8 grupos, então são 8 grupos x 2 equipes x 3 partidas = 192 partidas na final.\n\nTotal de partidas: 72 + 192 + 192 + 192 + 192 = 758 partidas.\n\nComo cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, então o número mínimo de dias necessários para a realização desse torneio é de 758 partidas / 3 dias = 252,67 dias. Arredondando para baixo, temos 253 dias.\n\nPortanto, a resposta correta é a letra B. 25.",
+        "pred": "B.",
+        "gold": "B.",
+        "area": "mathematics"
+    },
+    {
+        "id": "ENEM_2022_179",
+        "response": "A resposta correta é B. 40/64.\n\nPara resolver esse problema, podemos utilizar a fórmula da probabilidade condicional, que é:\n\nP(A|B) = P(A ∩ B) / P(B)\n\nonde P(A|B) é a probabilidade de A dado que B aconteceu, P(A ∩ B) é a probabilidade de A e B acontecerem juntos e P(B) é a probabilidade de B acontecer.\n\nNo caso desse problema, queremos calcular a probabilidade de o time que venceu a primeira partida ser o campeão, dado que ele venceu a primeira partida. Isso significa que A = \"o time que venceu a primeira partida é o campeão\" e B = \"o time que venceu a primeira partida venceu a partida\".\n\nA probabilidade de o time que venceu a primeira partida ser o campeão é igual à probabilidade de ele vencer todas as partidas, dado que ele venceu a primeira partida. Isso pode ser calculado utilizando a fórmula da probabilidade condicional:\n\nP(A|B) = P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)\n= P(A ∩ B) / P(B)",
+        "pred": "B.",
+        "gold": "C.",
+        "area": "mathematics"
+    }
+]
