@@ -140,7 +140,7 @@ python evaluator.py build_results_table --models "['Falcon-7B', 'LLaMA-2-7B']" -
 
 ![Streamlit Demo](images/streamlit.png)
 
-The streamlit demo is only available for the OpenAI models.
+The streamlit demo is available for MariTalk and the OpenAI models.
 
 ```powershell
 streamlit run streamlit_app.py
